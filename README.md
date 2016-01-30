@@ -26,6 +26,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 - [Cómo hacer animaciones con React.js](https://www.youtube.com/watch?v=QV5TU4IgVQA) - Tutorial de animaciones en React.js
 - [Cómo implementar React.js en el Backend](https://www.youtube.com/watch?v=Jo6wChwIDKo) - Tutorial sobre server render con React.js.
 - [Cómo mejorar la velocidad de jQuery y Javascript](https://www.youtube.com/watch?v=Qqf5qPFehBI) - Optimizaciones de velocidad en jQuery y JavaScript.
+- [Tutorial de Promises en JavaScript](https://www.youtube.com/watch?v=FmdPjo00BgU) - Introducción a Promesas en JavaScript.
 
 
 ## Conferencias
