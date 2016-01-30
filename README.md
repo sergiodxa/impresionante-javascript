@@ -1,2 +1,3 @@
-# impresionante-javascript
-Recopilación de links en español sobre JavaScript
+# impresionante javascript
+Recopilación de links de artículos o charlas en español sobre JavaScript.
+
