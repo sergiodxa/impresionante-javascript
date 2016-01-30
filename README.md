@@ -22,6 +22,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 ## Vídeos
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
 - [Tutorial de introducción a React.js](https://www.youtube.com/watch?v=d9QumoK2io4) - Ejemplo de Hello World con React.js.
+- [Patrones de arquitectura con Flux y React.js para Front-end](https://www.youtube.com/watch?v=D1gWyGWKjRY&list=PLa28R7QEiMblX90sGz23mLhHq5X_JzSmi&index=6) - Explicación de Flux con Reflux.js.
 
 
 ## Conferencias
