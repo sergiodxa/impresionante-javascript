@@ -30,6 +30,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 - [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
 - [Platzi - Curso Profesional de React.js](https://platzi.com/cursos/reactjs/) - Aprende React.js desde 0.
+- [Platzi - Curso de Polymer](https://platzi.com/cursos/polymer/) - Aprende Polymer desde 0.
 
 
 # Contribuciones
