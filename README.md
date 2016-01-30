@@ -6,7 +6,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 
 
 ## Artículos y Tutoriales
-
+- [Compilando el Frontend con Webpack](https://medium.com/@sergiodxa/compilando-el-frontend-con-webpack-d251f7a632ec#.2i7igiwyj) - Tutorial introductorio a Webpack y como configurarlo.
 
 ## Conferencias
 
