@@ -21,6 +21,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 
 ## Vídeos
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
+- [Tutorial de introducción a React.js](https://www.youtube.com/watch?v=d9QumoK2io4) - Ejemplo de Hello World con React.js.
 
 
 ## Conferencias
