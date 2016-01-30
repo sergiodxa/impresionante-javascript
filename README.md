@@ -11,6 +11,8 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 - [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc#.jv8v2ym5l) - Artículo sobre las nuevas características de ES7.
 - [Usando ECMAScript 6 en tus tareas de Gulp](https://medium.com/@sergiodxa/usando-ecmascript-6-en-tus-tareas-de-gulp-a05f83f8bbac#.j1chzwh8f) - Tutorial básico de como combinar Gulp.js y Babel.js
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6#.iatud3dv8) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js
+- [Definiendo conceptos: Closure y Scope en JavaScript](https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6#.iogs2utvt) - Explicación de Closures y Scope
+
 
 ## Conferencias
 
