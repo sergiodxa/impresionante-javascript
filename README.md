@@ -15,6 +15,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
 - [Factorizando bundles de JavaScript agrupando dependencias comunes](https://getmango.com/blog/factorizando-bundles-de-javascript-para-agrupar-dependencias-comunes/) - Optimizaciones para bundles de aplicaciones JS.
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
+- [Construyendo módulos de front-end con Browserify](https://getmango.com/blog/construyendo-modulos-de-front-end-con-browserify/) - Tutorial de Browserify
 
 
 ## Conferencias
