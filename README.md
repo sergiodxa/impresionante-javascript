@@ -26,6 +26,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 
 
 ## Cursos
+- [Platzi - Curso de Programación Básica](https://platzi.com/cursos/programacion-basica/) - Programación básica explicada con JavaScript.
 
 
 # Contribuciones
