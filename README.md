@@ -28,6 +28,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 - [Cómo implementar React.js en el Backend](https://www.youtube.com/watch?v=Jo6wChwIDKo) - Tutorial sobre server render con React.js.
 - [Cómo mejorar la velocidad de jQuery y Javascript](https://www.youtube.com/watch?v=Qqf5qPFehBI) - Optimizaciones de velocidad en jQuery y JavaScript.
 - [Tutorial de Promises en JavaScript](https://www.youtube.com/watch?v=FmdPjo00BgU) - Introducción a Promesas en JavaScript.
+- [Cómo conectar Node.js con el REST API de WordPress.com](https://platzi.com/blog/nodejs-rest-api-wordpress/) - Tutorial de como usar el API de WP.com en Node.js.
 
 
 ## Conferencias
