@@ -17,8 +17,9 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
 - [Construyendo módulos de front-end con Browserify](https://getmango.com/blog/construyendo-modulos-de-front-end-con-browserify/) - Tutorial de Browserify.
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
-- [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js
-- [Introducción a Sails.js](https://platzi.com/blog/introduccion-sailsjs/) - Tutorial de Sails.js
+- [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
+- [Introducción a Sails.js](https://platzi.com/blog/introduccion-sailsjs/) - Tutorial de Sails.js.
+- [Estructura y componentes de una aplicación en Sails.js](https://platzi.com/blog/anatomia-app-sails-js/) - Tutorial de Sails.js.
 
 
 ## Vídeos
