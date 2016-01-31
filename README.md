@@ -51,6 +51,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 
 ## Libros
 - [El gran libro de HTML5, CSS3 y JavaScript](http://www.amazon.com/gran-libro-HTML5-CSS3-Javascript/dp/8426719953) - Todo sobre HTML5, CSS3 y JavaScript (hasta ECMAScript 5).
+- [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS v1
 
 
 # Contribuciones
