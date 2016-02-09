@@ -21,6 +21,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 - [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098#.ytp7tzivh) - Como crear una aplicación multi idioma con React.js
 - [Introducción a Sails.js](https://platzi.com/blog/introduccion-sailsjs/) - Tutorial de Sails.js.
 - [Estructura y componentes de una aplicación en Sails.js](https://platzi.com/blog/anatomia-app-sails-js/) - Tutorial de Sails.js.
+- [JavaScript: El lenguaje de programación más incomprendido del mundo](http://frontendlabs.io/3065--javascript-lenguaje-programacion-mas-incomprendido-mundo) - Conociendo un poco más a fondo que hay detrás de JS y porque es tan incomprendido.
 
 
 ## Vídeos
