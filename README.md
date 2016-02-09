@@ -35,6 +35,7 @@ Recopilación de links de artículos o charlas en español sobre JavaScript.
 
 
 ## Conferencias
+- [Aprende de web components con Polymer](https://www.youtube.com/watch?v=4zdJ2gD-GnI) - Introducción a web components a través Polymer.
 
 
 ## Podcasts
