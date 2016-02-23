@@ -81,6 +81,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Cómo mejorar la velocidad de jQuery y Javascript](https://www.youtube.com/watch?v=Qqf5qPFehBI) - Optimizaciones de velocidad en jQuery y JavaScript.
 - [Tutorial de Promises en JavaScript](https://www.youtube.com/watch?v=FmdPjo00BgU) - Introducción a Promesas en JavaScript.
 - [Cómo conectar Node.js con el REST API de WordPress.com](https://platzi.com/blog/nodejs-rest-api-wordpress/) - Tutorial de como usar el API de WP.com en Node.js.
+- [Tutorial de Force Touch y 3D Touch en Javascript](https://www.youtube.com/watch?v=J5DzwJg-mBo) - Como usar Force Touch y 3D Touch en un website en iOS.
 
 
 ## Conferencias
