@@ -44,6 +44,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ### Herramientas
 #### Gulp
+- [Automatización de tareas de frontend usando Gulp.js](http://www.cristalab.com/tutoriales/automatizacion-de-tareas-de-frontend-usando-gulp.js-c114514l/) - Tutorial introductorio a Gulp.js
 - [Usando ECMAScript 6 en tus tareas de Gulp](https://medium.com/@sergiodxa/usando-ecmascript-6-en-tus-tareas-de-gulp-a05f83f8bbac#.j1chzwh8f) - Tutorial básico de como combinar Gulp.js y Babel.js.
 
 #### Browserify
