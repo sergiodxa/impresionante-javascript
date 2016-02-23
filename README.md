@@ -37,6 +37,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6
 - [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc#.jv8v2ym5l) - Artículo sobre las nuevas características de ES7.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
+- [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
 
 ### API de navegadores
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
