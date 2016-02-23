@@ -39,6 +39,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc#.jv8v2ym5l) - Artículo sobre las nuevas características de ES7.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
 - [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
+- [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/entendiendo-la-asignaci%C3%B3n-por-destructuring-en-javascript-c352a462d066#.ps6w9ojib) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6
 
 ### API de navegadores
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
