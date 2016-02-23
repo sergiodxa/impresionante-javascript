@@ -16,7 +16,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [React.js](#reactjs)
   * [Frameworks](#frameworks)
     * [Sails.js](#sailsjs)
-    * [Angularjs](#angularjs)
+    * [AngularJS](#angularjs-v1)
 * [Vídeos](#vídeos)
 * [Conferencias](#conferencias)
 * [Podcasts](#podcasts)
@@ -71,8 +71,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### Sails.js
 - [Introducción a Sails.js](https://platzi.com/blog/introduccion-sailsjs/) - Tutorial de Sails.js.
 - [Estructura y componentes de una aplicación en Sails.js](https://platzi.com/blog/anatomia-app-sails-js/) - Tutorial de Sails.js.
-#### Angularjs
-- [Guía de estilo AngularJS] (https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño.
+
+#### AngularJS v1
+- [Guía de estilo AngularJS] (https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1
 
 
 ## Vídeos
