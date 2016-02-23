@@ -40,11 +40,11 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ### API de navegadores
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
+- [Cómo usar la etiqueta template en HTML5](http://www.cristalab.com/tutoriales/como-usar-la-etiqueta-template-en-html5-c114548l/) - Tutorial sobre uso de templates nativos en el navegador.
 
 ### Herramientas
 #### Gulp
 - [Usando ECMAScript 6 en tus tareas de Gulp](https://medium.com/@sergiodxa/usando-ecmascript-6-en-tus-tareas-de-gulp-a05f83f8bbac#.j1chzwh8f) - Tutorial básico de como combinar Gulp.js y Babel.js.
-- [Cómo usar la etiqueta template en HTML5](http://www.cristalab.com/tutoriales/como-usar-la-etiqueta-template-en-html5-c114548l/) - Tutorial sobre uso de templates nativos en el navegador.
 
 #### Browserify
 - [Construyendo módulos de front-end con Browserify](https://getmango.com/blog/construyendo-modulos-de-front-end-con-browserify/) - Tutorial de Browserify.
