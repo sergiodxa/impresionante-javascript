@@ -13,6 +13,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [Webpack](#webpack)
     * [CasperJS](#casperjs)
   * [Librerías](#librerías)
+    * [Polymer](#polymer)
     * [React.js](#reactjs)
   * [Frameworks](#frameworks)
     * [Sails.js](#sailsjs)
@@ -63,6 +64,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
 
 ### Librerías
+#### Polymer
+- [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
+
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6#.iatud3dv8) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
