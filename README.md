@@ -109,6 +109,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ### Pagos
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
+- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico
 - [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Platzi - Curso Profesional de React.js](https://platzi.com/cursos/reactjs/) - Aprende React.js desde 0.
 - [Platzi - Curso de Polymer](https://platzi.com/cursos/polymer/) - Aprende Polymer desde 0.
