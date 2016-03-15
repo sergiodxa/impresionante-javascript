@@ -69,6 +69,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
 - [Aprende a crear Web Components con Polymer](https://platzi.com/blog/web-components-polymer/) - Tutorial del uso de Web Components con Polymer.
+- [Manual de Polymer](http://www.desarrolloweb.com/manuales/polymer.html) - Manual que explica cómo trabajar con Polymer, con una serie de artículos básicos enfocados en el uso de Polymer y de sus elementos del catálogo.
 
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
