@@ -13,8 +13,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [Webpack](#webpack)
     * [CasperJS](#casperjs)
   * [Librerías](#librerías)
-    * [Polymer](#polymer)
     * [React.js](#reactjs)
+    * [Polymer](#polymer)
   * [Frameworks](#frameworks)
     * [Sails.js](#sailsjs)
     * [AngularJS](#angularjs-v1)
@@ -66,15 +66,15 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
 
 ### Librerías
-#### Polymer
-- [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
-- [Aprende a crear Web Components con Polymer](https://platzi.com/blog/web-components-polymer/) - Tutorial del uso de Web Components con Polymer.
-- [Manual de Polymer](http://www.desarrolloweb.com/manuales/polymer.html) - Manual que explica cómo trabajar con Polymer, con una serie de artículos básicos enfocados en el uso de Polymer y de sus elementos del catálogo.
-
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6#.iatud3dv8) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
 - [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098#.ytp7tzivh) - Como crear una aplicación multi idioma con React.js
+
+#### Polymer
+- [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
+- [Aprende a crear Web Components con Polymer](https://platzi.com/blog/web-components-polymer/) - Tutorial del uso de Web Components con Polymer.
+- [Manual de Polymer](http://www.desarrolloweb.com/manuales/polymer.html) - Manual que explica cómo trabajar con Polymer, con una serie de artículos básicos enfocados en el uso de Polymer y de sus elementos del catálogo.
 
 ### Frameworks
 #### Sails.js
@@ -111,11 +111,11 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ### Pagos
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
-- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico
 - [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Platzi - Curso Profesional de React.js](https://platzi.com/cursos/reactjs/) - Aprende React.js desde 0.
 - [Platzi - Curso de Polymer](https://platzi.com/cursos/polymer/) - Aprende Polymer desde 0.
 - [Platzi - Curso de AngularJS](https://platzi.com/cursos/angularjs/) - Aprender AngularJS desde 0.
+- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico
 
 
 ## Libros
