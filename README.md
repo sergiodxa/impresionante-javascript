@@ -14,6 +14,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [CasperJS](#casperjs)
   * [Librerías](#librerías)
     * [React.js](#reactjs)
+    * [Redux.js](#reduxjs)
     * [Polymer](#polymer)
   * [Frameworks](#frameworks)
     * [Sails.js](#sailsjs)
@@ -70,6 +71,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6#.iatud3dv8) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
 - [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098#.ytp7tzivh) - Como crear una aplicación multi idioma con React.js
+
+#### Redux.js
+- [Introducción a Redux.js](https://medium.com/@sergiodxa/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
