@@ -44,12 +44,12 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc#.jv8v2ym5l) - Artículo sobre las nuevas características de ES7.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
 - [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
-- [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/entendiendo-la-asignaci%C3%B3n-por-destructuring-en-javascript-c352a462d066#.ps6w9ojib) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6
+- [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/entendiendo-la-asignaci%C3%B3n-por-destructuring-en-javascript-c352a462d066#.ps6w9ojib) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
 
 ### API de navegadores
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
 - [Cómo usar la etiqueta template en HTML5](http://www.cristalab.com/tutoriales/como-usar-la-etiqueta-template-en-html5-c114548l/) - Tutorial sobre uso de templates nativos en el navegador.
-- [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML
+- [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML.
 
 ### Herramientas
 #### Gulp
@@ -70,10 +70,11 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6#.iatud3dv8) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
-- [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098#.ytp7tzivh) - Como crear una aplicación multi idioma con React.js
+- [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098#.ytp7tzivh) - Como crear una aplicación multi idioma con React.js.
 
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/@sergiodxa/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
+- [Combinando React.js y Redux.js](https://medium.com/@sergiodxa/combinando-react-js-y-redux-js-7b45a9dc39ac#.n3elt5zas) - Explicación de como usar conjuntamente estas dos tecnologías.
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
@@ -86,7 +87,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Estructura y componentes de una aplicación en Sails.js](https://platzi.com/blog/anatomia-app-sails-js/) - Tutorial de Sails.js.
 
 #### AngularJS v1
-- [Guía de estilo AngularJS] (https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1
+- [Guía de estilo AngularJS] (https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1.
 
 
 ## Vídeos
