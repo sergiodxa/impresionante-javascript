@@ -35,16 +35,16 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Lenguaje
 - [Definiendo conceptos: Closure y Scope en JavaScript](https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6#.iogs2utvt) - Explicación de Closures y Scope.
 - [JavaScript: El lenguaje de programación más incomprendido del mundo](http://frontendlabs.io/3065--javascript-lenguaje-programacion-mas-incomprendido-mundo) - Conociendo un poco más a fondo que hay detrás de JS y por que es tan incomprendido.
-- [Entendiendo This — JavaScript](https://medium.com/@yeion7/entendiendo-this-javascript-cba60c8cec8c#.spjutxdtw) - Explicación de como funciona `this`.
-- [Funciones de alto orden en JavaScript](https://medium.com/@yeion7/funciones-de-alto-orden-en-javascript-42d04769d9b5#.xxq8lsn4o) - Explicación del concepto y uso de funciones de alto orden.
-- [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1#.6gmyp5kec) - Explicación del calculo lambda y su importancia en JavaScipt.
+- [Entendiendo This — JavaScript](https://medium.com/@yeion7/entendiendo-this-javascript-cba60c8cec8c) - Explicación de como funciona `this`.
+- [Funciones de alto orden en JavaScript](https://medium.com/@yeion7/funciones-de-alto-orden-en-javascript-42d04769d9b5) - Explicación del concepto y uso de funciones de alto orden.
+- [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
 
 #### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6
-- [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc#.jv8v2ym5l) - Artículo sobre las nuevas características de ES7.
+- [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc) - Artículo sobre las nuevas características de ES7.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
 - [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
-- [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/entendiendo-la-asignaci%C3%B3n-por-destructuring-en-javascript-c352a462d066#.ps6w9ojib) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
+- [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/entendiendo-la-asignaci%C3%B3n-por-destructuring-en-javascript-c352a462d066) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
 
 ### API de navegadores
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
@@ -54,14 +54,14 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Herramientas
 #### Gulp
 - [Automatización de tareas de frontend usando Gulp.js](http://www.cristalab.com/tutoriales/automatizacion-de-tareas-de-frontend-usando-gulp.js-c114514l/) - Tutorial introductorio a Gulp.js
-- [Usando ECMAScript 6 en tus tareas de Gulp](https://medium.com/@sergiodxa/usando-ecmascript-6-en-tus-tareas-de-gulp-a05f83f8bbac#.j1chzwh8f) - Tutorial básico de como combinar Gulp.js y Babel.js.
+- [Usando ECMAScript 6 en tus tareas de Gulp](https://medium.com/@sergiodxa/usando-ecmascript-6-en-tus-tareas-de-gulp-a05f83f8bbac) - Tutorial básico de como combinar Gulp.js y Babel.js.
 
 #### Browserify
 - [Construyendo módulos de front-end con Browserify](https://getmango.com/blog/construyendo-modulos-de-front-end-con-browserify/) - Tutorial de Browserify.
 - [Factorizando bundles de JavaScript agrupando dependencias comunes](https://getmango.com/blog/factorizando-bundles-de-javascript-para-agrupar-dependencias-comunes/) - Optimizaciones para bundles de aplicaciones JS.
 
 #### Webpack
-- [Compilando el Frontend con Webpack](https://medium.com/@sergiodxa/compilando-el-frontend-con-webpack-d251f7a632ec#.2i7igiwyj) - Tutorial introductorio a Webpack y como configurarlo.
+- [Compilando el Frontend con Webpack](https://medium.com/@sergiodxa/compilando-el-frontend-con-webpack-d251f7a632ec) - Tutorial introductorio a Webpack y como configurarlo.
 
 #### CasperJS
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
@@ -69,13 +69,13 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Librerías
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
-- [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6#.iatud3dv8) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
-- [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098#.ytp7tzivh) - Como crear una aplicación multi idioma con React.js.
+- [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
+- [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098) - Como crear una aplicación multi idioma con React.js.
 
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/@sergiodxa/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
-- [Combinando React.js y Redux.js](https://medium.com/@sergiodxa/combinando-react-js-y-redux-js-7b45a9dc39ac#.n3elt5zas) - Explicación de como usar conjuntamente estas dos tecnologías.
-- [Middlewares en Redux.js](https://medium.com/@sergiodxa/middlewares-en-redux-js-88081fcd6c91#.vgf7m7kfo) - Explicación de como hacer middlewares propios para Redux.js
+- [Combinando React.js y Redux.js](https://medium.com/@sergiodxa/combinando-react-js-y-redux-js-7b45a9dc39ac) - Explicación de como usar conjuntamente estas dos tecnologías.
+- [Middlewares en Redux.js](https://medium.com/@sergiodxa/middlewares-en-redux-js-88081fcd6c91) - Explicación de como hacer middlewares propios para Redux.js
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
