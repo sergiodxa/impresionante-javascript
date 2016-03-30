@@ -75,6 +75,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/@sergiodxa/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
 - [Combinando React.js y Redux.js](https://medium.com/@sergiodxa/combinando-react-js-y-redux-js-7b45a9dc39ac#.n3elt5zas) - Explicación de como usar conjuntamente estas dos tecnologías.
+- [Middlewares en Redux.js](https://medium.com/@sergiodxa/middlewares-en-redux-js-88081fcd6c91#.vgf7m7kfo) - Explicación de como hacer middlewares propios para Redux.js
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
