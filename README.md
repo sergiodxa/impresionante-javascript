@@ -38,6 +38,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Entendiendo This — JavaScript](https://medium.com/@yeion7/entendiendo-this-javascript-cba60c8cec8c) - Explicación de como funciona `this`.
 - [Funciones de alto orden en JavaScript](https://medium.com/@yeion7/funciones-de-alto-orden-en-javascript-42d04769d9b5) - Explicación del concepto y uso de funciones de alto orden.
 - [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
+- [Objetos en JavaScript](https://medium.com/@yeion7/entendiendo-los-objetos-en-javascript-3a6d3a0695e5) - Explicación del comportamiento de los objetos en JavaScript
 
 #### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6
