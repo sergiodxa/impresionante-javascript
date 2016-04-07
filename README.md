@@ -78,6 +78,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Combinando React.js y Redux.js](https://medium.com/@sergiodxa/combinando-react-js-y-redux-js-7b45a9dc39ac) - Explicación de como usar conjuntamente estas dos tecnologías.
 - [Middlewares en Redux.js](https://medium.com/@sergiodxa/middlewares-en-redux-js-88081fcd6c91) - Explicación de como hacer middlewares propios para Redux.js
 - [Pruebas unitarias en Redux.js](https://medium.com/@sergiodxa/pruebas-unitarias-en-redux-js-d7285c013123) - Ejemplos de como hacer pruebas a nuestro código de Redux.js.
+- [Ruteo en aplicaciones de Redux y React.js](https://medium.com/p/ruteo-en-aplicaciones-de-redux-y-react-js-d62de452bf1b) - Explicación de como manejar las rutas de una aplicación hecha con Redux y React.js.
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
