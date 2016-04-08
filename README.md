@@ -35,6 +35,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Lenguaje
 - [Definiendo conceptos: Closure y Scope en JavaScript](https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6#.iogs2utvt) - Explicación de Closures y Scope.
 - [JavaScript: El lenguaje de programación más incomprendido del mundo](http://frontendlabs.io/3065--javascript-lenguaje-programacion-mas-incomprendido-mundo) - Conociendo un poco más a fondo que hay detrás de JS y por que es tan incomprendido.
+- [Entendiendo los tipos en JavaScript](https://medium.com/@yeion7/entendiendo-los-tipos-en-javascript-4c1c718e8e2a) - Explicación de como funciona los tipos de datos.
 - [Entendiendo This — JavaScript](https://medium.com/@yeion7/entendiendo-this-javascript-cba60c8cec8c) - Explicación de como funciona `this`.
 - [Funciones de alto orden en JavaScript](https://medium.com/@yeion7/funciones-de-alto-orden-en-javascript-42d04769d9b5) - Explicación del concepto y uso de funciones de alto orden.
 - [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
