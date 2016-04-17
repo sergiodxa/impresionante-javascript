@@ -83,6 +83,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Ruteo en aplicaciones de Redux y React.js](https://medium.com/react-redux/ruteo-en-aplicaciones-de-redux-y-react-js-d62de452bf1b) - Explicación de como manejar las rutas de una aplicación hecha con Redux y React.js.
 - [Estructura de archivos Ducks para Redux.js](https://medium.com/react-redux/estructura-de-archivos-ducks-para-redux-js-36bb56a70cb3#.z7qq00d55) - Buena práctica de como organizar creadores de acciones, reducers y tipos de acciones en módulos.
 - [Glosario de términos de Redux](https://medium.com/react-redux/glosario-de-términos-de-redux-c2bca005ca69) - Colección de términos usados en Redux junto a su explicación.
+- [Migrando a Redux](https://medium.com/react-redux/migrando-a-redux-f7a15457a805) - Guía de migración a Redux.js desde otra implementación de Flux.
+- [Manejo de errores en Redux.js](https://medium.com/react-redux/manejo-de-errores-en-redux-js-adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
