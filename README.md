@@ -41,6 +41,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
 - [Objetos en JavaScript](https://medium.com/@yeion7/entendiendo-los-objetos-en-javascript-3a6d3a0695e5) - Explicación del comportamiento de los objetos en JavaScript
 - [Getters y Setters en JavaScript](https://medium.com/@yeion7/entendiendo-getters-y-setters-en-javascript-f0eeb5d6fe06) - Explicación funcionamiento Getters y Setters.
+- [Propiedades internas en JavaScript](https://medium.com/@yeion7/propiedades-internas-en-javascript-717057026516) - Explicación propiedades internas de los objetos.
 
 #### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6
