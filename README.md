@@ -86,6 +86,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Glosario de términos de Redux](https://medium.com/react-redux/glosario-de-términos-de-redux-c2bca005ca69) - Colección de términos usados en Redux junto a su explicación.
 - [Migrando a Redux](https://medium.com/react-redux/migrando-a-redux-f7a15457a805) - Guía de migración a Redux.js desde otra implementación de Flux.
 - [Manejo de errores en Redux.js](https://medium.com/react-redux/manejo-de-errores-en-redux-js-adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
+- [Creando código modular con ducks de Redux](https://medium.com/react-redux/creando-c%C3%B3digo-modular-con-ducks-de-redux-bfd7b67ff8c0) - Tutorial sobre como usar la librería [react-duck](https://github.com/sergiodxa/redux-duck) para crear código modular.
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
