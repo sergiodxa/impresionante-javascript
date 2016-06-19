@@ -75,6 +75,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
 - [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098) - Como crear una aplicación multi idioma con React.js.
+- [Componentes de Alto Orden en React.js](https://medium.com/react-redux/2498211e933f) - Que son y como usar los Componentes de Alto Orden para extender componentes de React.js
 
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/react-redux/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
@@ -88,6 +89,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Manejo de errores en Redux.js](https://medium.com/react-redux/manejo-de-errores-en-redux-js-adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
 - [Creando código modular con ducks de Redux](https://medium.com/react-redux/creando-c%C3%B3digo-modular-con-ducks-de-redux-bfd7b67ff8c0) - Tutorial sobre como usar la librería [react-duck](https://github.com/sergiodxa/redux-duck) para crear código modular.
 - [Usando Redux en el servidor con Socket.io](https://medium.com/react-redux/61e31242e366) - Tutorial sobre como usar Redux para mantener el estado del servidor en aplicaciones Real-time.
+- [Renderizando aplicaciones de Redux en el servidor](https://medium.com/react-redux/1f6cb0b557c9) - Tutorial sobre como usar Redux en aplicaciones renderizadas en el servidor.
+- [Obteniendo datos en aplicaciones de Redux](https://medium.com/react-redux/1007e8703521) - Tutorial sobre como manejar peticiones al servidor en aplicaciones de Redux.
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
