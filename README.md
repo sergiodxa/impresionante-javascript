@@ -29,7 +29,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Guías
 - [Guía de ECMASCript 6](http://sergio.xalambri.com.ar/es6/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
-- [Documentación de Redux](https://es.redux.js.org/) - Traducción al español de la documentación de Redux (Trabajo en proceso)
+- [Documentación de Redux](http://es.redux.js.org/) - Traducción al español de la documentación de Redux (Trabajo en proceso)
 
 ## Artículos y Tutoriales
 ### Lenguaje
