@@ -91,6 +91,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Usando Redux en el servidor con Socket.io](https://medium.com/react-redux/61e31242e366) - Tutorial sobre como usar Redux para mantener el estado del servidor en aplicaciones Real-time.
 - [Renderizando aplicaciones de Redux en el servidor](https://medium.com/react-redux/1f6cb0b557c9) - Tutorial sobre como usar Redux en aplicaciones renderizadas en el servidor.
 - [Obteniendo datos en aplicaciones de Redux](https://medium.com/react-redux/1007e8703521) - Tutorial sobre como manejar peticiones al servidor en aplicaciones de Redux.
+- [Estado inmutable con Redux e Immutable.js](https://medium.com/react-redux/estado-inmutable-con-redux-e-immutable-js-5a3d69ef0451) - Aprende a usar Immutable.js para manejar un estado 100% inmutable en Redux.
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
