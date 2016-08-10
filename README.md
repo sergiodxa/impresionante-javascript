@@ -107,6 +107,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Gratuitos
 - [Platzi - Curso de Programación Básica](https://platzi.com/cursos/programacion-basica/) - Programación básica explicada con JavaScript.
 - [Introducción a Node.js y io.js](https://platzi.com/cursos/iojs/) - Curso introductorio a Node.js (usando io.js, todavía válido).
+- [Codigofacilito - Curso de JavaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz) - Curso básico y introductorio a JavaScript con codigofacilito.
 
 ### Pagos
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
@@ -118,7 +119,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 
 ## Libros
-- [LibrosWeb](https://librosweb.es/libro/javascript/) - Introducción a JavaScript, conceptos basicos y fundamentales.
+- [LibrosWeb](https://librosweb.es/libro/javascript/) - Introducción a JavaScript, conceptos básicos y fundamentales.
 - [El gran libro de HTML5, CSS3 y JavaScript](http://www.amazon.com/gran-libro-HTML5-CSS3-Javascript/dp/8426719953) - Todo sobre HTML5, CSS3 y JavaScript (hasta ECMAScript 5).
 - [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS v1
 - [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
