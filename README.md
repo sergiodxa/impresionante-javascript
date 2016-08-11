@@ -147,6 +147,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [El gran libro de HTML5, CSS3 y JavaScript](http://www.amazon.com/gran-libro-HTML5-CSS3-Javascript/dp/8426719953) - Todo sobre HTML5, CSS3 y JavaScript (hasta ECMAScript 5).
 - [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS v1
 - [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
+- [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
 
 
 # Contribuciones
