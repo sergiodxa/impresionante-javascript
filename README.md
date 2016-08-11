@@ -132,6 +132,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Platzi - Curso de Programación Básica](https://platzi.com/cursos/programacion-basica/) - Programación básica explicada con JavaScript.
 - [Introducción a Node.js y io.js](https://platzi.com/cursos/iojs/) - Curso introductorio a Node.js (usando io.js, todavía válido).
 - [Codigofacilito - Curso de JavaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz) - Curso básico y introductorio a JavaScript con codigofacilito.
+- [latincoder - Tutoriales Javascript para principiantes](https://www.youtube.com/playlist?list=PLAAhC8kCE0VneZvNqxTuWd3xQxtzUkS7L) - Curso desde 0 para que aprendas a utilizar javascript desde lo mas basico.
 
 ### Pagos
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
