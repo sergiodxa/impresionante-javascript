@@ -77,6 +77,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098) - Como crear una aplicación multi idioma con React.js.
 - [Componentes de Alto Orden en React.js](https://medium.com/react-redux/2498211e933f) - Que son y como usar los Componentes de Alto Orden para extender componentes de React.js
 - [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django/) - Explicación de como en Platzi resolvieron el server-render con React.js y Django
+- [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/testeando-componentes-de-react-con-enzyme-5aa0468a0cab#.nfhwdgte5) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/react-redux/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
