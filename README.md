@@ -111,7 +111,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Estructura y componentes de una aplicación en Sails.js](https://platzi.com/blog/anatomia-app-sails-js/) - Tutorial de Sails.js.
 
 #### AngularJS v1
-- [Guía de estilo AngularJS] (https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1.
+- [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1.
 
 
 ## Vídeos
