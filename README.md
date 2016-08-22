@@ -71,6 +71,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 #### Webpack
 - [Compilando el Frontend con Webpack](https://medium.com/@sergiodxa/compilando-el-frontend-con-webpack-d251f7a632ec) - Tutorial introductorio a Webpack y como configurarlo.
+- [Configurando diferentes entornos en webpack](https://medium.com/@p4bloch/configurando-diferentes-entornos-en-webpack-ed1a6db77233) - Cómo configurar webpack con diferentes configuraciones para desarrollo y producción. También hay algunos tips sobre loaders y plugins útiles.
 
 #### CasperJS
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
