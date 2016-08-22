@@ -7,6 +7,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
   * [Lenguaje](#lenguaje)
     * [ECMAScript 6/7/etc](#ecmascript-67etc)
   * [API de navegadores](#api-de-navegadores)
+  * [Node.js](#nodejs)
   * [Herramientas](#herramientas)
     * [Gulp](#gulp)
     * [Browserify](#browserify)
@@ -43,6 +44,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Objetos en JavaScript](https://medium.com/@yeion7/entendiendo-los-objetos-en-javascript-3a6d3a0695e5) - Explicación del comportamiento de los objetos en JavaScript
 - [Getters y Setters en JavaScript](https://medium.com/@yeion7/entendiendo-getters-y-setters-en-javascript-f0eeb5d6fe06) - Explicación funcionamiento Getters y Setters.
 - [Propiedades internas en JavaScript](https://medium.com/@yeion7/propiedades-internas-en-javascript-717057026516) - Explicación propiedades internas de los objetos.
+- [Formas de manejar la asincronía en JavaScript](https://carlosazaustre.es/blog/manejando-la-asincronia-en-javascript/) - Explicación de los diferentes método de programación asíncrona.
 
 #### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6.
@@ -55,6 +57,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
 - [Cómo usar la etiqueta template en HTML5](http://www.cristalab.com/tutoriales/como-usar-la-etiqueta-template-en-html5-c114548l/) - Tutorial sobre uso de templates nativos en el navegador.
 - [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML.
+
+### Node.js
 
 ### Herramientas
 #### Gulp
@@ -112,6 +116,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 #### AngularJS v1
 - [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1.
+- [Desarrollo por componentes con AngularJS v1.5 y ES6/ES2015](https://carlosazaustre.es/blog/desarrollo-por-componentes-con-angular-1-5-con-es6-es2015/) - Como trabajar con componentes en AngularJS v1.5.
+- [Formas de comunicar componentes en AngularJS 1.x](https://carlosazaustre.es/blog/formas-de-comunicar-componentes-en-angularjs-1-x/) - Resumen sobre las 3 maneras principales que existen para comunicar componentes.
 
 
 ## Vídeos
@@ -140,13 +146,15 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Codigofacilito - Curso de JavaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz) - Curso básico y introductorio a JavaScript con codigofacilito.
 - [latincoder - Tutoriales Javascript para principiantes](https://www.youtube.com/playlist?list=PLAAhC8kCE0VneZvNqxTuWd3xQxtzUkS7L) - Curso desde 0 para que aprendas a utilizar javascript desde lo mas basico.
 
+
 ### Pagos
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
 - [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Platzi - Curso Profesional de React.js](https://platzi.com/cursos/reactjs/) - Aprende React.js desde 0.
 - [Platzi - Curso de Polymer](https://platzi.com/cursos/polymer/) - Aprende Polymer desde 0.
 - [Platzi - Curso de AngularJS](https://platzi.com/cursos/angularjs/) - Aprender AngularJS desde 0.
-- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico
+- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico.
+- [Platzi - Curso definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript en Frontend y Backend.
 
 
 ## Libros
