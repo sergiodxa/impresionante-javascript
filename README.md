@@ -35,23 +35,23 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Artículos y Tutoriales
 ### Lenguaje
-- [Definiendo conceptos: Closure y Scope en JavaScript](https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6#.iogs2utvt) - Explicación de Closures y Scope.
+- [Definiendo conceptos: Closure y Scope en JavaScript](https://medium.com/@sergiodxa/9081f1e113e6) - Explicación de Closures y Scope.
 - [JavaScript: El lenguaje de programación más incomprendido del mundo](http://frontendlabs.io/3065--javascript-lenguaje-programacion-mas-incomprendido-mundo) - Conociendo un poco más a fondo que hay detrás de JS y por que es tan incomprendido.
-- [Entendiendo los tipos en JavaScript](https://medium.com/@yeion7/entendiendo-los-tipos-en-javascript-4c1c718e8e2a) - Explicación de como funciona los tipos de datos.
-- [Entendiendo This — JavaScript](https://medium.com/@yeion7/entendiendo-this-javascript-cba60c8cec8c) - Explicación de como funciona `this`.
-- [Funciones de alto orden en JavaScript](https://medium.com/@yeion7/funciones-de-alto-orden-en-javascript-42d04769d9b5) - Explicación del concepto y uso de funciones de alto orden.
-- [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
-- [Objetos en JavaScript](https://medium.com/@yeion7/entendiendo-los-objetos-en-javascript-3a6d3a0695e5) - Explicación del comportamiento de los objetos en JavaScript
-- [Getters y Setters en JavaScript](https://medium.com/@yeion7/entendiendo-getters-y-setters-en-javascript-f0eeb5d6fe06) - Explicación funcionamiento Getters y Setters.
-- [Propiedades internas en JavaScript](https://medium.com/@yeion7/propiedades-internas-en-javascript-717057026516) - Explicación propiedades internas de los objetos.
+- [Entendiendo los tipos en JavaScript](https://medium.com/@yeion7/4c1c718e8e2a) - Explicación de como funciona los tipos de datos.
+- [Entendiendo This — JavaScript](https://medium.com/@yeion7/cba60c8cec8c) - Explicación de como funciona `this`.
+- [Funciones de alto orden en JavaScript](https://medium.com/@yeion7/42d04769d9b5) - Explicación del concepto y uso de funciones de alto orden.
+- [Calculo lambda en JavaScript](https://medium.com/@yeion7/57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
+- [Objetos en JavaScript](https://medium.com/@yeion7/3a6d3a0695e5) - Explicación del comportamiento de los objetos en JavaScript
+- [Getters y Setters en JavaScript](https://medium.com/@yeion7/f0eeb5d6fe06) - Explicación funcionamiento Getters y Setters.
+- [Propiedades internas en JavaScript](https://medium.com/@yeion7/717057026516) - Explicación propiedades internas de los objetos.
 - [Formas de manejar la asincronía en JavaScript](https://carlosazaustre.es/blog/manejando-la-asincronia-en-javascript/) - Explicación de los diferentes método de programación asíncrona.
 
 #### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6.
-- [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc) - Artículo sobre las nuevas características de ES7.
+- [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/da73067698cc) - Artículo sobre las nuevas características de ES7.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
 - [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
-- [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/entendiendo-la-asignaci%C3%B3n-por-destructuring-en-javascript-c352a462d066) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
+- [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/c352a462d066) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
 
 ### API de navegadores
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
@@ -63,15 +63,15 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Herramientas
 #### Gulp
 - [Automatización de tareas de frontend usando Gulp.js](http://www.cristalab.com/tutoriales/automatizacion-de-tareas-de-frontend-usando-gulp.js-c114514l/) - Tutorial introductorio a Gulp.js
-- [Usando ECMAScript 6 en tus tareas de Gulp](https://medium.com/@sergiodxa/usando-ecmascript-6-en-tus-tareas-de-gulp-a05f83f8bbac) - Tutorial básico de como combinar Gulp.js y Babel.js.
+- [Usando ECMAScript 6 en tus tareas de Gulp](https://medium.com/@sergiodxa/a05f83f8bbac) - Tutorial básico de como combinar Gulp.js y Babel.js.
 
 #### Browserify
 - [Construyendo módulos de front-end con Browserify](https://getmango.com/blog/construyendo-modulos-de-front-end-con-browserify/) - Tutorial de Browserify.
 - [Factorizando bundles de JavaScript agrupando dependencias comunes](https://getmango.com/blog/factorizando-bundles-de-javascript-para-agrupar-dependencias-comunes/) - Optimizaciones para bundles de aplicaciones JS.
 
 #### Webpack
-- [Compilando el Frontend con Webpack](https://medium.com/@sergiodxa/compilando-el-frontend-con-webpack-d251f7a632ec) - Tutorial introductorio a Webpack y como configurarlo.
-- [Configurando diferentes entornos en webpack](https://medium.com/@p4bloch/configurando-diferentes-entornos-en-webpack-ed1a6db77233) - Cómo configurar webpack con diferentes configuraciones para desarrollo y producción. También hay algunos tips sobre loaders y plugins útiles.
+- [Compilando el Frontend con Webpack](https://medium.com/@sergiodxa/d251f7a632ec) - Tutorial introductorio a Webpack y como configurarlo.
+- [Configurando diferentes entornos en webpack](https://medium.com/@p4bloch/ed1a6db77233) - Cómo configurar webpack con diferentes configuraciones para desarrollo y producción. También hay algunos tips sobre loaders y plugins útiles.
 
 #### CasperJS
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
@@ -83,7 +83,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/389957dbc098) - Como crear una aplicación multi idioma con React.js.
 - [Componentes de Alto Orden en React.js](https://medium.com/react-redux/2498211e933f) - Que son y como usar los Componentes de Alto Orden para extender componentes de React.js
 - [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django/) - Explicación de como en Platzi resolvieron el server-render con React.js y Django.
-- [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/testeando-componentes-de-react-con-enzyme-5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
+- [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
 
 #### Redux.js
@@ -92,7 +92,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Middlewares en Redux.js](https://medium.com/react-redux/88081fcd6c91) - Explicación de como hacer middlewares propios para Redux.js
 - [Pruebas unitarias en Redux.js](https://medium.com/react-redux/d7285c013123) - Ejemplos de como hacer pruebas a nuestro código de Redux.js.
 - [Ruteo en aplicaciones de Redux y React.js](https://medium.com/react-redux/d62de452bf1b) - Explicación de como manejar las rutas de una aplicación hecha con Redux y React.js.
-- [Estructura de archivos Ducks para Redux.js](https://medium.com/react-redux/36bb56a70cb3#.z7qq00d55) - Buena práctica de como organizar creadores de acciones, reducers y tipos de acciones en módulos.
+- [Estructura de archivos Ducks para Redux.js](https://medium.com/react-redux/36bb56a70cb3) - Buena práctica de como organizar creadores de acciones, reducers y tipos de acciones en módulos.
 - [Glosario de términos de Redux](https://medium.com/react-redux/c2bca005ca69) - Colección de términos usados en Redux junto a su explicación.
 - [Migrando a Redux](https://medium.com/react-redux/f7a15457a805) - Guía de migración a Redux.js desde otra implementación de Flux.
 - [Manejo de errores en Redux.js](https://medium.com/react-redux/adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
