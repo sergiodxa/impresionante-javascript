@@ -16,6 +16,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [React.js](#reactjs)
     * [Redux.js](#reduxjs)
     * [Polymer](#polymer)
+    * [Micro.js](#microjs)
   * [Frameworks](#frameworks)
     * [Sails.js](#sailsjs)
     * [AngularJS](#angularjs-v1)
@@ -28,8 +29,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Libros](#libros)
 
 ## Guías
-- [Guía de ECMASCript 6](http://sergio.xalambri.com.ar/es6/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
-- [Documentación de Redux](http://es.redux.js.org/) - Traducción al español de la documentación de Redux (Trabajo en proceso)
+- [Guía de ECMASCript 6](http://sergio.xalambri.xyz/es6/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
+- [Documentación de Redux](http://es.redux.js.org/) - Traducción al español de la documentación de Redux (Trabajo en proceso).
 
 ## Artículos y Tutoriales
 ### Lenguaje
@@ -44,7 +45,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Propiedades internas en JavaScript](https://medium.com/@yeion7/propiedades-internas-en-javascript-717057026516) - Explicación propiedades internas de los objetos.
 
 #### ECMAScript 6/7/etc
-- [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6
+- [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6.
 - [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/introducci%C3%B3n-a-ecmascript-2016-7-da73067698cc) - Artículo sobre las nuevas características de ES7.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
 - [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
@@ -73,32 +74,36 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Librerías
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
-- [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
-- [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098) - Como crear una aplicación multi idioma con React.js.
+- [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/903de08c3df6) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
+- [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/389957dbc098) - Como crear una aplicación multi idioma con React.js.
 - [Componentes de Alto Orden en React.js](https://medium.com/react-redux/2498211e933f) - Que son y como usar los Componentes de Alto Orden para extender componentes de React.js
-- [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django/) - Explicación de como en Platzi resolvieron el server-render con React.js y Django
-- [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/testeando-componentes-de-react-con-enzyme-5aa0468a0cab#.nfhwdgte5) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
+- [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django/) - Explicación de como en Platzi resolvieron el server-render con React.js y Django.
+- [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/testeando-componentes-de-react-con-enzyme-5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
+- [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
 
 #### Redux.js
-- [Introducción a Redux.js](https://medium.com/react-redux/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
-- [Combinando React.js y Redux.js](https://medium.com/react-redux/combinando-react-js-y-redux-js-7b45a9dc39ac) - Explicación de como usar conjuntamente estas dos tecnologías.
-- [Middlewares en Redux.js](https://medium.com/react-redux/middlewares-en-redux-js-88081fcd6c91) - Explicación de como hacer middlewares propios para Redux.js
-- [Pruebas unitarias en Redux.js](https://medium.com/react-redux/pruebas-unitarias-en-redux-js-d7285c013123) - Ejemplos de como hacer pruebas a nuestro código de Redux.js.
-- [Ruteo en aplicaciones de Redux y React.js](https://medium.com/react-redux/ruteo-en-aplicaciones-de-redux-y-react-js-d62de452bf1b) - Explicación de como manejar las rutas de una aplicación hecha con Redux y React.js.
-- [Estructura de archivos Ducks para Redux.js](https://medium.com/react-redux/estructura-de-archivos-ducks-para-redux-js-36bb56a70cb3#.z7qq00d55) - Buena práctica de como organizar creadores de acciones, reducers y tipos de acciones en módulos.
-- [Glosario de términos de Redux](https://medium.com/react-redux/glosario-de-términos-de-redux-c2bca005ca69) - Colección de términos usados en Redux junto a su explicación.
-- [Migrando a Redux](https://medium.com/react-redux/migrando-a-redux-f7a15457a805) - Guía de migración a Redux.js desde otra implementación de Flux.
-- [Manejo de errores en Redux.js](https://medium.com/react-redux/manejo-de-errores-en-redux-js-adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
-- [Creando código modular con ducks de Redux](https://medium.com/react-redux/creando-c%C3%B3digo-modular-con-ducks-de-redux-bfd7b67ff8c0) - Tutorial sobre como usar la librería [react-duck](https://github.com/sergiodxa/redux-duck) para crear código modular.
+- [Introducción a Redux.js](https://medium.com/react-redux/8bdf4fe0751e) - Introducción a conceptos de Redux.js
+- [Combinando React.js y Redux.js](https://medium.com/react-redux/7b45a9dc39ac) - Explicación de como usar conjuntamente estas dos tecnologías.
+- [Middlewares en Redux.js](https://medium.com/react-redux/88081fcd6c91) - Explicación de como hacer middlewares propios para Redux.js
+- [Pruebas unitarias en Redux.js](https://medium.com/react-redux/d7285c013123) - Ejemplos de como hacer pruebas a nuestro código de Redux.js.
+- [Ruteo en aplicaciones de Redux y React.js](https://medium.com/react-redux/d62de452bf1b) - Explicación de como manejar las rutas de una aplicación hecha con Redux y React.js.
+- [Estructura de archivos Ducks para Redux.js](https://medium.com/react-redux/36bb56a70cb3#.z7qq00d55) - Buena práctica de como organizar creadores de acciones, reducers y tipos de acciones en módulos.
+- [Glosario de términos de Redux](https://medium.com/react-redux/c2bca005ca69) - Colección de términos usados en Redux junto a su explicación.
+- [Migrando a Redux](https://medium.com/react-redux/f7a15457a805) - Guía de migración a Redux.js desde otra implementación de Flux.
+- [Manejo de errores en Redux.js](https://medium.com/react-redux/adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
+- [Creando código modular con ducks de Redux](https://medium.com/react-redux/bfd7b67ff8c0) - Tutorial sobre como usar la librería [react-duck](https://github.com/sergiodxa/redux-duck) para crear código modular.
 - [Usando Redux en el servidor con Socket.io](https://medium.com/react-redux/61e31242e366) - Tutorial sobre como usar Redux para mantener el estado del servidor en aplicaciones Real-time.
 - [Renderizando aplicaciones de Redux en el servidor](https://medium.com/react-redux/1f6cb0b557c9) - Tutorial sobre como usar Redux en aplicaciones renderizadas en el servidor.
 - [Obteniendo datos en aplicaciones de Redux](https://medium.com/react-redux/1007e8703521) - Tutorial sobre como manejar peticiones al servidor en aplicaciones de Redux.
-- [Estado inmutable con Redux e Immutable.js](https://medium.com/react-redux/estado-inmutable-con-redux-e-immutable-js-5a3d69ef0451) - Aprende a usar Immutable.js para manejar un estado 100% inmutable en Redux.
+- [Estado inmutable con Redux e Immutable.js](https://medium.com/react-redux/5a3d69ef0451) - Aprende a usar Immutable.js para manejar un estado 100% inmutable en Redux.
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
 - [Aprende a crear Web Components con Polymer](https://platzi.com/blog/web-components-polymer/) - Tutorial del uso de Web Components con Polymer.
 - [Manual de Polymer](http://www.desarrolloweb.com/manuales/polymer.html) - Manual que explica cómo trabajar con Polymer, con una serie de artículos básicos enfocados en el uso de Polymer y de sus elementos del catálogo.
+
+#### Micro.js
+- [Crea microservicios en Node.js con micro.js](https://platzi.com/blog/microservicios-en-node-con-micro/) - Como crear un microservicio usando [micro.js](https://github.com/zeit/micro).
 
 ### Frameworks
 #### Sails.js
