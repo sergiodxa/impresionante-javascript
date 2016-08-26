@@ -8,6 +8,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [ECMAScript 6/7/etc](#ecmascript-67etc)
   * [API de navegadores](#api-de-navegadores)
   * [Node.js](#nodejs)
+  * [Electron.js](#electronjs)
   * [Herramientas](#herramientas)
     * [Gulp](#gulp)
     * [Browserify](#browserify)
@@ -59,6 +60,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML.
 
 ### Node.js
+### Electron.js
+- [Desarrollando aplicaciones de escritorio con Electron.js](https://platzi.com/blog/aplicaciones-escritorio-electron-js) - Introducción al desarrollo de aplicaciones de escritorio con [Electron.js](http://electron.atom.io/).
 
 ### Herramientas
 #### Gulp
