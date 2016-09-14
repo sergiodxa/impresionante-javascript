@@ -149,6 +149,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Introducción a Node.js y io.js](https://platzi.com/cursos/iojs/) - Curso introductorio a Node.js (usando io.js, todavía válido).
 - [Codigofacilito - Curso de JavaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz) - Curso básico y introductorio a JavaScript con codigofacilito.
 - [latincoder - Tutoriales Javascript para principiantes](https://www.youtube.com/playlist?list=PLAAhC8kCE0VneZvNqxTuWd3xQxtzUkS7L) - Curso desde 0 para que aprendas a utilizar javascript desde lo mas basico.
+- [FalconMasters - Curso Básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) - Aprende a programar en Javascript con este increíble curso desde 0.
 
 
 ### Pagos
