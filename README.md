@@ -1,8 +1,10 @@
 # Impresionante JavaScript
 Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conferencias, podscasts, cursos y libros en español sobre JavaScript.
 
+
 ## Índice
 * [Guías](#guías)
+* [Opiniones](#opiniones)
 * [Artículos y Tutoriales](#artículos-y-tutoriales)
   * [Lenguaje](#lenguaje)
     * [ECMAScript 6/7/etc](#ecmascript-67etc)
@@ -30,9 +32,15 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
   * [Pagos](#pagos)
 * [Libros](#libros)
 
+
 ## Guías
 - [Guía de ECMASCript 6](http://sergio.xalambri.xyz/es6/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
 - [Documentación de Redux](http://es.redux.js.org/) - Traducción al español de la documentación de Redux (Trabajo en proceso).
+
+
+## Opiniones
+- [Sobre el ecosistema y la fatiga de JavaScript](https://medium.com/@sergiodxa/73027048413f) - Reflexiones sobre el estado actual de la comunidad JavaScript y la conocida fatiga de JS.
+
 
 ## Artículos y Tutoriales
 ### Lenguaje
@@ -59,9 +67,11 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Cómo usar la etiqueta template en HTML5](http://www.cristalab.com/tutoriales/como-usar-la-etiqueta-template-en-html5-c114548l/) - Tutorial sobre uso de templates nativos en el navegador.
 - [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML.
 
+
 ### Node.js
 ### Electron.js
 - [Desarrollando aplicaciones de escritorio con Electron.js](https://platzi.com/blog/aplicaciones-escritorio-electron-js) - Introducción al desarrollo de aplicaciones de escritorio con [Electron.js](http://electron.atom.io/).
+
 
 ### Herramientas
 #### Gulp
@@ -79,6 +89,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### CasperJS
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
 
+
 ### Librerías
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
@@ -88,6 +99,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django/) - Explicación de como en Platzi resolvieron el server-render con React.js y Django.
 - [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
+- [Crea una aplicación web usando React, Flux y Auth0](https://platzi.com/blog/aplicacion-web-react-flux/) - Crea una aplicación con autenticación y que consuma un API.
 
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/react-redux/8bdf4fe0751e) - Introducción a conceptos de Redux.js
@@ -113,6 +125,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### Micro.js
 - [Crea microservicios en Node.js con micro.js](https://platzi.com/blog/microservicios-en-node-con-micro/) - Como crear un microservicio usando [micro.js](https://github.com/zeit/micro).
 
+
 ### Frameworks
 #### Sails.js
 - [Introducción a Sails.js](https://platzi.com/blog/introduccion-sailsjs/) - Tutorial de Sails.js.
@@ -122,6 +135,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1.
 - [Desarrollo por componentes con AngularJS v1.5 y ES6/ES2015](https://carlosazaustre.es/blog/desarrollo-por-componentes-con-angular-1-5-con-es6-es2015/) - Como trabajar con componentes en AngularJS v1.5.
 - [Formas de comunicar componentes en AngularJS 1.x](https://carlosazaustre.es/blog/formas-de-comunicar-componentes-en-angularjs-1-x/) - Resumen sobre las 3 maneras principales que existen para comunicar componentes.
+
+#### AngularJS v2
+- [Crea tu primer componente en Angular 2](https://platzi.com/blog/crea-componente-angular-2/) - Aprende a crear un componente en Angular v2.
 
 
 ## Vídeos
@@ -153,13 +169,17 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 
 ### Pagos
+- [Platzi - Curso Definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript en Frontend y Backend.
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
-- [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Platzi - Curso Profesional de React.js](https://platzi.com/cursos/reactjs/) - Aprende React.js desde 0.
 - [Platzi - Curso de Polymer](https://platzi.com/cursos/polymer/) - Aprende Polymer desde 0.
-- [Platzi - Curso de AngularJS](https://platzi.com/cursos/angularjs/) - Aprender AngularJS desde 0.
+- [Platzi - Curso de AngularJS](https://platzi.com/cursos/angularjs/) - Aprende AngularJS desde 0.
+- [Platzi - Curso de Desarrollo Web con Angular](https://platzi.com/cursos/angular/) - Aprende desde 0 Angular.js v2.
+- [Platzi - Curso profesional de React con Redux](https://platzi.com/cursos/react/) - Aprende desde 0 a usar React.js y Redux.js para desarrollar aplicaciones web.
+- [Platzi - Curso de Mobile Apps para Android y iOS con React Native](https://platzi.com/cursos/react-native/) - Aprende a usar React Native para desarrollar aplicaciones móviles para Android y iOS.
+- [Platzi - Curso de desarrollo móvil con Ionic 2](https://platzi.com/cursos/ionic/) Aprende a usar Angular 2 y Ionic 2 para desarrollar aplicaciones móviles para Android y iOS.
+- [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico.
-- [Platzi - Curso definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript en Frontend y Backend.
 
 
 ## Libros
