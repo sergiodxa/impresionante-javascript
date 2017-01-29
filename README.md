@@ -25,7 +25,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [Sails.js](#sailsjs)
     * [AngularJS](#angularjs)
     * [Angular](#angular)
-* [Vídeos](#vídeos)
+* [Vídeos y charlas](#vídeos-y-charlas)
 * [Conferencias](#conferencias)
 * [Podcasts](#podcasts)
 * [Cursos](#cursos)
