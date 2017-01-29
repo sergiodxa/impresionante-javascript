@@ -1,7 +1,6 @@
 # Impresionante JavaScript
 Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conferencias, podscasts, cursos y libros en español sobre JavaScript.
 
-
 ## Índice
 * [Guías](#guías)
 * [Opiniones](#opiniones)
@@ -34,15 +33,12 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
   * [Pagos](#pagos)
 * [Libros](#libros)
 
-
 ## Guías
 - [Guía de ECMASCript 6](http://sergio.xalambri.xyz/es6/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
 - [Documentación de Redux](http://es.redux.js.org/) - Traducción al español de la documentación de Redux (Trabajo en proceso).
 
-
 ## Opiniones
 - [Sobre el ecosistema y la fatiga de JavaScript](https://medium.com/@sergiodxa/73027048413f) - Reflexiones sobre el estado actual de la comunidad JavaScript y la conocida fatiga de JS.
-
 
 ## Tutoriales
 ### Lenguaje
@@ -69,11 +65,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Cómo usar la etiqueta template en HTML5](http://www.cristalab.com/tutoriales/como-usar-la-etiqueta-template-en-html5-c114548l/) - Tutorial sobre uso de templates nativos en el navegador.
 - [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML.
 
-
 ### Node.js
 ### Electron.js
 - [Desarrollando aplicaciones de escritorio con Electron.js](https://platzi.com/blog/aplicaciones-escritorio-electron-js) - Introducción al desarrollo de aplicaciones de escritorio con [Electron.js](http://electron.atom.io/).
-
 
 ### Herramientas
 #### Babel
@@ -92,7 +86,6 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 #### CasperJS
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
-
 
 ### Librerías
 #### React.js
@@ -129,7 +122,6 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### Micro.js
 - [Crea microservicios en Node.js con micro.js](https://platzi.com/blog/microservicios-en-node-con-micro/) - Como crear un microservicio usando [micro.js](https://github.com/zeit/micro).
 
-
 ### Frameworks
 #### Sails.js
 - [Introducción a Sails.js](https://platzi.com/blog/introduccion-sailsjs/) - Tutorial de Sails.js.
@@ -143,8 +135,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### Angular
 - [Crea tu primer componente en Angular 2](https://platzi.com/blog/crea-componente-angular-2/) - Aprende a crear un componente en Angular v2.
 
-
-## Vídeos
+## Vídeos y charlas
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
 - [Tutorial de introducción a React.js](https://www.youtube.com/watch?v=d9QumoK2io4) - Ejemplo de Hello World con React.js.
 - [Patrones de arquitectura con Flux y React.js para Front-end](https://www.youtube.com/watch?v=D1gWyGWKjRY) - Explicación de Flux con Reflux.js.
@@ -154,14 +145,17 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Tutorial de Promises en JavaScript](https://www.youtube.com/watch?v=FmdPjo00BgU) - Introducción a Promesas en JavaScript.
 - [Cómo conectar Node.js con el REST API de WordPress.com](https://platzi.com/blog/nodejs-rest-api-wordpress/) - Tutorial de como usar el API de WP.com en Node.js.
 - [Tutorial de Force Touch y 3D Touch en Javascript](https://www.youtube.com/watch?v=J5DzwJg-mBo) - Como usar Force Touch y 3D Touch en un website en iOS.
-
+- [Por qué elegir React JS para desarrollar](https://www.youtube.com/watch?v=ajLJOhf-WdA) - Por qu Platzi se decidió por React, que implicó el cambio y como se realizó server-render al usar Django como backend.
+- [Meetup.js Argentina - Babel y feature detection se hacen amigos](https://www.youtube.com/watch?v=p2_1OXrrnfE) - Cómo usar Babel y Feature Detection para solo transpilar el código necesario.
+- [Meetup.js Argentina - Introduccion a GraphQL](https://www.youtube.com/watch?v=yvjABpL0O2M0) - Qué es y como funciona GraphQL.
+- [Meetup.js Argentina - Migrando nuestra API REST a GraphQL en Restorando](https://www.youtube.com/watch?v=aKxXqVT0MXU) - Cómo Restorando esta migrando su API Rest a GraphQL y sus experiencias al hacerlo.
 
 ## Conferencias
 - [Aprende de web components con Polymer](https://www.youtube.com/watch?v=4zdJ2gD-GnI) - Introducción a web components a través Polymer.
-
+- [JSConf Colombia - High Performance in the Critical Rendering Path](https://www.youtube.com/watch?v=WQSoIH0lCyU) - Como optimizar la carga de un sitio web.
 
 ## Podcasts
-
+- [Sin humo 3.0 - React y JavaScript](https://soundcloud.com/sin-humo/episodio-3-0-react-y) - Qué es React, JSX, Redux, GraphQL y otras cosas sobre JavaScript.
 
 ## Cursos
 ### Gratuitos
@@ -169,7 +163,6 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Codigofacilito - Curso de JavaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz) - Curso básico y introductorio a JavaScript con codigofacilito.
 - [latincoder - Tutoriales Javascript para principiantes](https://www.youtube.com/playlist?list=PLAAhC8kCE0VneZvNqxTuWd3xQxtzUkS7L) - Curso desde 0 para que aprendas a utilizar javascript desde lo mas basico.
 - [FalconMasters - Curso Básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) - Aprende a programar en Javascript con este increíble curso desde 0.
-
 
 ### Pagos
 - [Platzi - Curso Definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript en Frontend y Backend.
@@ -184,14 +177,12 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico.
 
-
 ## Libros
 - [LibrosWeb](https://librosweb.es/libro/javascript/) - Introducción a JavaScript, conceptos básicos y fundamentales.
 - [El gran libro de HTML5, CSS3 y JavaScript](http://www.amazon.com/gran-libro-HTML5-CSS3-Javascript/dp/8426719953) - Todo sobre HTML5, CSS3 y JavaScript (hasta ECMAScript 5).
 - [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS
 - [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
 - [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
-
 
 # Contribuciones
 Cualquier contribución es bienvenida. Lea la [guía de contribuciones](https://github.com/sergiodxa/impresionante-javascript/blob/master/CONTRIBUTING.md) primero.
