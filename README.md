@@ -6,7 +6,6 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Opiniones](#opiniones)
 * [Tutoriales](#tutoriales)
   * [Lenguaje](#lenguaje)
-    * [ECMAScript 6/7/etc](#ecmascript-67etc)
   * [API de navegadores](#api-de-navegadores)
   * [Node.js](#nodejs)
   * [Electron.js](#electronjs)
@@ -52,13 +51,12 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Getters y Setters en JavaScript](https://medium.com/@yeion7/f0eeb5d6fe06) - Explicación funcionamiento Getters y Setters.
 - [Propiedades internas en JavaScript](https://medium.com/@yeion7/717057026516) - Explicación propiedades internas de los objetos.
 - [Formas de manejar la asincronía en JavaScript](https://carlosazaustre.es/blog/manejando-la-asincronia-en-javascript/) - Explicación de los diferentes método de programación asíncrona.
-
-#### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6.
 - [Introducción a ECMAScript 2016/7](https://medium.com/@sergiodxa/da73067698cc) - Artículo sobre las nuevas características de ES7.
 - [Pensa en serie, ejecuta en paralelo, funciones async en JavaScript](https://getmango.com/blog/pensa-en-serie-ejecuta-en-paralelo-funciones-async-en-javascript/) - Tutorial sobre funciones asíncronas.
 - [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
 - [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/c352a462d066) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
+- [Qué son y cómo funcionan las promesas en JavaScript](https://platzi.com/blog/que-es-y-como-funcionan-las-promesas-en-javascript/) - Todo sobre las promesas de JavaScript.
 
 ### API de navegadores
 - [Validación de Formularios con la API de Vibración](https://getmango.com/blog/validacion-de-formularios-con-la-api-de-vibracion/) - Consejos de como usar la API de vibraciones para validar formularios.
