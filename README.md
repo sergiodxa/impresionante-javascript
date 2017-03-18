@@ -9,6 +9,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
   * [API de navegadores](#api-de-navegadores)
   * [Node.js](#nodejs)
   * [Electron.js](#electronjs)
+  * [GraphQL](#grahpql)
   * [Herramientas](#herramientas)
     * [Babel](#babel)
     * [Gulp](#gulp)
@@ -66,6 +67,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Node.js
 ### Electron.js
 - [Desarrollando aplicaciones de escritorio con Electron.js](https://platzi.com/blog/aplicaciones-escritorio-electron-js) - Introducción al desarrollo de aplicaciones de escritorio con [Electron.js](http://electron.atom.io/).
+
+### GraphQL
+- [Apollo, GraphQL, y cómo Redux me arruga la ropa](https://medium.com/@p4bloch/12bd071fda9) - Explicación de GraphQL y como se puede usar el cliente Apollo como substituto de Redux.
 
 ### Herramientas
 #### Babel
