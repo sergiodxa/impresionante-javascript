@@ -147,7 +147,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Tutorial de Promises en JavaScript](https://www.youtube.com/watch?v=FmdPjo00BgU) - Introducción a Promesas en JavaScript.
 - [Cómo conectar Node.js con el REST API de WordPress.com](https://platzi.com/blog/nodejs-rest-api-wordpress/) - Tutorial de como usar el API de WP.com en Node.js.
 - [Tutorial de Force Touch y 3D Touch en Javascript](https://www.youtube.com/watch?v=J5DzwJg-mBo) - Como usar Force Touch y 3D Touch en un website en iOS.
-- [Por qué elegir React JS para desarrollar](https://www.youtube.com/watch?v=ajLJOhf-WdA) - Por qu Platzi se decidió por React, que implicó el cambio y como se realizó server-render al usar Django como backend.
+- [Por qué elegir React JS para desarrollar](https://www.youtube.com/watch?v=ajLJOhf-WdA) - Por qué Platzi se decidió por React, que implicó el cambio y como se realizó server-render al usar Django como backend.
 - [Meetup.js Argentina - Babel y feature detection se hacen amigos](https://www.youtube.com/watch?v=p2_1OXrrnfE) - Cómo usar Babel y Feature Detection para solo transpilar el código necesario.
 - [Meetup.js Argentina - Introduccion a GraphQL](https://www.youtube.com/watch?v=yvjABpL0O2M0) - Qué es y como funciona GraphQL.
 - [Meetup.js Argentina - Migrando nuestra API REST a GraphQL en Restorando](https://www.youtube.com/watch?v=aKxXqVT0MXU) - Cómo Restorando esta migrando su API Rest a GraphQL y sus experiencias al hacerlo.
