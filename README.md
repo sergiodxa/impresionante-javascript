@@ -25,6 +25,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [Sails.js](#sailsjs)
     * [AngularJS](#angularjs)
     * [Angular](#angular)
+    * [Vue](#vuejs)
 * [Vídeos y charlas](#vídeos-y-charlas)
 * [Conferencias](#conferencias)
 * [Podcasts](#podcasts)
@@ -136,6 +137,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 #### Angular
 - [Crea tu primer componente en Angular 2](https://platzi.com/blog/crea-componente-angular-2/) - Aprende a crear un componente en Angular v2.
+
+#### VueJS
+- [Consumiendo Servicios Web / REST APIs con VueJS y Axios](http://laesporadelhongo.com/primeros-pasos-con-axios/) - Aprenderas a obtener datos desde servicios web utilizando VueJS, haciendo uso de la librería Axios.
 
 ## Vídeos y charlas
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
