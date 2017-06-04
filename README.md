@@ -165,6 +165,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Codigofacilito - Curso de JavaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz) - Curso básico y introductorio a JavaScript con codigofacilito.
 - [latincoder - Tutoriales Javascript para principiantes](https://www.youtube.com/playlist?list=PLAAhC8kCE0VneZvNqxTuWd3xQxtzUkS7L) - Curso desde 0 para que aprendas a utilizar javascript desde lo mas basico.
 - [FalconMasters - Curso Básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) - Aprende a programar en Javascript con este increíble curso desde 0.
+- [Mario Diez - Curso de React Native](https://www.youtube.com/playlist?list=PLqB3diFeF20Tjmnl8ASD4edh7r8-Qd5ep) - Curso desde 0 en el que aprenderas todos los conceptos para crear tu propia aplicación con React Native.
 
 ### Pagos
 - [Platzi - Curso Definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript en Frontend y Backend.
