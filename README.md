@@ -18,9 +18,11 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [CasperJS](#casperjs)
   * [Librerías](#librerías)
     * [React.js](#reactjs)
+    * [React Native](#react-native)
     * [Redux.js](#reduxjs)
     * [Polymer](#polymer)
     * [Micro.js](#microjs)
+    * [Pulse Editor](#pulse-editor)
   * [Frameworks](#frameworks)
     * [Sails.js](#sailsjs)
     * [AngularJS](#angularjs)
@@ -68,8 +70,10 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Node.js
 ### Electron.js
 - [Desarrollando aplicaciones de escritorio con Electron.js](https://platzi.com/blog/aplicaciones-escritorio-electron-js) - Introducción al desarrollo de aplicaciones de escritorio con [Electron.js](http://electron.atom.io/).
+- [Crea aplicaciones de escritorio con Electron y Next.js](https://platzi.com/blog/crea-aplicaciones-de-escritorio-con-electron-y-nextjs/) - Ejemplo de como crear una aplicación de Electron junto a Next.js
 
 ### GraphQL
+- [Introducción a GraphQL](https://platzi.com/blog/introduccion-a-graphql/) - Intro a GrahpQL y sus conceptos más básicos.
 - [Apollo, GraphQL, y cómo Redux me arruga la ropa](https://medium.com/@p4bloch/12bd071fda9) - Explicación de GraphQL y como se puede usar el cliente Apollo como substituto de Redux.
 
 ### Herramientas
@@ -101,6 +105,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
 - [Crea una aplicación web usando React, Flux y Auth0](https://platzi.com/blog/aplicacion-web-react-flux/) - Crea una aplicación con autenticación y que consuma un API.
 
+#### React Native
+- [Inicia un proyecto rápido con React Native](https://platzi.com/blog/proyecto-rapido-react-native/) - Artículo de como usar `create-react-native-app` para iniciar proyecto de RN sin configuracin
+
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/react-redux/8bdf4fe0751e) - Introducción a conceptos de Redux.js
 - [Combinando React.js y Redux.js](https://medium.com/react-redux/7b45a9dc39ac) - Explicación de como usar conjuntamente estas dos tecnologías.
@@ -124,6 +131,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 #### Micro.js
 - [Crea microservicios en Node.js con micro.js](https://platzi.com/blog/microservicios-en-node-con-micro/) - Como crear un microservicio usando [micro.js](https://github.com/zeit/micro).
+
+#### Pulse Editor
+- [Implementando Pulse Editor](https://platzi.com/blog/implementando-pulse-editor/) - Como implementar Pulse Editor en una aplicación de React usando Next.js
 
 ### Frameworks
 #### Sails.js
@@ -172,16 +182,15 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Mario Diez - Curso de React Native](https://www.youtube.com/playlist?list=PLqB3diFeF20Tjmnl8ASD4edh7r8-Qd5ep) - Curso desde 0 en el que aprenderas todos los conceptos para crear tu propia aplicación con React Native.
 
 ### Pagos
-- [Platzi - Curso Definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript en Frontend y Backend.
+- [Platzi - Fundamentos de JavaScript](https://platzi.com/cursos/fundamentos-javascript/) - Curso para aprender toda la sintaxis y características de JavaScript.
+- [Platzi - Curso Definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript para Frontend.
+- [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
 - [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
-- [Platzi - Curso Profesional de React.js](https://platzi.com/cursos/reactjs/) - Aprende React.js desde 0.
-- [Platzi - Curso de Polymer](https://platzi.com/cursos/polymer/) - Aprende Polymer desde 0.
-- [Platzi - Curso de AngularJS](https://platzi.com/cursos/angularjs/) - Aprende AngularJS desde 0.
-- [Platzi - Curso de Desarrollo Web con Angular](https://platzi.com/cursos/angular/) - Aprende desde 0 Angular.js v2.
 - [Platzi - Curso profesional de React con Redux](https://platzi.com/cursos/react/) - Aprende desde 0 a usar React.js y Redux.js para desarrollar aplicaciones web.
 - [Platzi - Curso de React Native](https://platzi.com/cursos/react-native/) - Aprende a usar React Native para desarrollar aplicaciones móviles para Android y iOS.
-- [Platzi - Curso de desarrollo móvil con Ionic 2](https://platzi.com/cursos/ionic/) Aprende a usar Angular 2 y Ionic 2 para desarrollar aplicaciones móviles para Android y iOS.
-- [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
+- [Platzi - Curso de Electron: Apps nativas Windows y Mac](https://platzi.com/cursos/electron/) - Aprende a usar Electron para crear aplicaciones de escritorio con tecnologías web.
+- [Platzi - Curso de GraphQL](https://platzi.com/cursos/graphql/) - Aprende como implementar GraphQL en Backend y Frontend.
+- [Platzi - Curso básico de Vue.js](https://platzi.com/cursos/vuejs/) - Aprende a usar Vue.js el 
 - [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico.
 
 ## Libros
