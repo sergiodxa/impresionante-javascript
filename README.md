@@ -16,6 +16,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [Browserify](#browserify)
     * [Webpack](#webpack)
     * [CasperJS](#casperjs)
+    * [Yarn](#yarn)
   * [Librerías](#librerías)
     * [React.js](#reactjs)
     * [React Native](#react-native)
@@ -27,7 +28,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
     * [Sails.js](#sailsjs)
     * [AngularJS](#angularjs)
     * [Angular](#angular)
-    * [Vue](#vuejs)
+    * [Vue.js](#vuejs)
+    * [Next.js](#nextjs)
 * [Vídeos y charlas](#vídeos-y-charlas)
 * [Conferencias](#conferencias)
 * [Podcasts](#podcasts)
@@ -94,6 +96,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### CasperJS
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
 
+#### Yarn
+- [Manejo de dependencias JavaScript con Yarn](https://platzi.com/blog/manejo-de-dependencias-javascript-con-yarn/) - Como usar Yarn como manejador de dependencias de JavaScript.
+
 ### Librerías
 #### React.js
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
@@ -150,6 +155,10 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 #### VueJS
 - [Consumiendo Servicios Web / REST APIs con VueJS y Axios](http://laesporadelhongo.com/primeros-pasos-con-axios/) - Aprenderas a obtener datos desde servicios web utilizando VueJS, haciendo uso de la librería Axios.
+
+#### NextJS
+- [Next.js, el futuro de las aplicaciones con React](https://platzi.com/blog/nextjs-el-futuro-de-las-aplicaciones-con-react/) - Introducción Next.js y sus características
+- [Implementa Progressive server-side render con Next.js](https://platzi.com/blog/progressive-server-side-render/) - Ejemplo de como implementar progressive server render en Next.js
 
 ## Vídeos y charlas
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
