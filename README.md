@@ -138,7 +138,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Crea microservicios en Node.js con micro.js](https://platzi.com/blog/microservicios-en-node-con-micro/) - Como crear un microservicio usando [micro.js](https://github.com/zeit/micro).
 
 #### Pulse Editor
-- [Implementando Pulse Editor](https://platzi.com/blog/implementando-pulse-editor/) - Como implementar Pulse Editor en una aplicación de React usando Next.js
+- [Implementando Pulse Editor](https://platzi.com/blog/implementando-pulse-editor/) - Como implementar Pulse Editor en una aplicación de React usando Next.js.
+- [Creando botones propios para Pulse Editor](https://platzi.com/blog/creando-botones-propios-para-pulse-editor/) - Como crear botones personalizados para un editor creado con Pulse Editor.
+- [Aplicando estilos a Pulse Editor con styled-components](https://platzi.com/blog/aplicando-estilos-a-pulse-editor-con-styled-components/) - Como estilzar un editor creado con Pulse Editor usando styled-components.
 
 ### Frameworks
 #### Sails.js
