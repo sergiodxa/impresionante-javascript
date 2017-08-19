@@ -10,5 +10,6 @@ Por favor, asegurese que cada Pull Request se adiere a las siguientes guías:
 - Manten las descripciones pequeñas y simples, pero descriptivas.
 - Verifica la ortografía.
 - Asegurate de que tu editor de texto remueva los espacios en blanco.
+- Solo se aceptan contribuciones en español.
 
 ¡Gracias por sus sugerencias y aportes!
