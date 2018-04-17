@@ -70,6 +70,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML.
 
 ### Node.js
+- [¿Por qué demonios usaría Node.js?](https://www.toptal.com/nodejs/por-qu%C3%A9-demonios-usar%C3%ADa-node-js-un-tutorial-caso-por-caso/es) - Un tutorial caso por caso de donde vale la pena usar Node.js.
+
 ### Electron.js
 - [Desarrollando aplicaciones de escritorio con Electron.js](https://platzi.com/blog/aplicaciones-escritorio-electron-js) - Introducción al desarrollo de aplicaciones de escritorio con [Electron.js](http://electron.atom.io/).
 - [Crea aplicaciones de escritorio con Electron y Next.js](https://platzi.com/blog/crea-aplicaciones-de-escritorio-con-electron-y-nextjs/) - Ejemplo de como crear una aplicación de Electron junto a Next.js
