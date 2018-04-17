@@ -9,7 +9,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
   * [API de navegadores](#api-de-navegadores)
   * [Node.js](#nodejs)
   * [Electron.js](#electronjs)
-  * [GraphQL](#grahpql)
+  * [GraphQL](#graphql)
   * [Herramientas](#herramientas)
     * [Babel](#babel)
     * [Gulp](#gulp)
@@ -199,15 +199,22 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ### Pagos
 - [Platzi - Fundamentos de JavaScript](https://platzi.com/cursos/fundamentos-javascript/) - Curso para aprender toda la sintaxis y características de JavaScript.
-- [Platzi - Curso Definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript para Frontend.
-- [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
-- [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
-- [Platzi - Curso profesional de React con Redux](https://platzi.com/cursos/react/) - Aprende desde 0 a usar React.js y Redux.js para desarrollar aplicaciones web.
-- [Platzi - Curso de React Native](https://platzi.com/cursos/react-native/) - Aprende a usar React Native para desarrollar aplicaciones móviles para Android y iOS.
-- [Platzi - Curso de Electron: Apps nativas Windows y Mac](https://platzi.com/cursos/electron/) - Aprende a usar Electron para crear aplicaciones de escritorio con tecnologías web.
-- [Platzi - Curso de GraphQL](https://platzi.com/cursos/graphql/) - Aprende como implementar GraphQL en Backend y Frontend.
-- [Platzi - Curso básico de Vue.js](https://platzi.com/cursos/vuejs/) - Aprende a usar Vue.js el 
-- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico.
+- [Platzi - Curso Avanzado de Node.js](https://platzi.com/cursos/nodejs/) - Aprende Node.js creando una aplicacin de IoT, MQTT y WS.
+- [Platzi - Curso Definitivo de JavaScript 2016](https://platzi.com/cursos/javascript-pro-2016/) - Aprende JavaScript FullStack desde cero.
+- [Platzi - Curso básico de Vue.js](https://platzi.com/cursos/vuejs/) - Aprende a usar Vue.js, el framework progresivo.
+- [Platzi - Curso Profesional de VueJS](https://platzi.com/cursos/vuejs-profesional/) - Usa Vue.js para crear aplicaciones de gran escala con buen rendimiento.
+- [Platzi - Curso de Angular 4](https://platzi.com/cursos/angular/) - Aprende a crear una Single Page Application usando Angular.
+- [Platzi - Curso de MEAN](https://platzi.com/cursos/mean/) - Aprende a usar el stack MEAN (MongoDB, Express, Angular y Node) para crear aplicaciones web.
+- [Platzi - Curso de Webpack](https://platzi.com/cursos/webpack/) - Aprende a usar webpack y configurarlo según para tus aplicaciones.
+- [Platzi - Curso de GraphQL](https://platzi.com/cursos/graphql/) - Aprende a crear una API GraphQL usando JavaScript (y aprendiendo GraphQL desde cero).
+- [Platzi - Curso de JavaScript Full Stack con Sails.js](https://platzi.com/cursos/javascript-pro/) - Aprende a usar Sail.js para crear aplicaciones del lado del servidor con Node.js y como integrarlo con Vue.js.
+- [Platzi - Curso de Realidad Virtual para Web](https://platzi.com/cursos/web-vr/) - Aprende a usar JavaScript y A-Frame para crear aplicacione sy juegos de realidad virtual en la web.
+- [Platzi - Curso de React.js](https://platzi.com/cursos/react/) - Aprende desde cero a usar React.js para crear una aplicación.
+- [Platzi - Curso de Redux](https://platzi.com/cursos/redux/) - Aprende a usar Redux junto a React para manejar el estado de tus aplicaciones web.
+- [Platzi - Curso de React Native](https://platzi.com/cursos/react-native/) - Aprende a usar React Native para llevar tus conocimientos de React a las aplicaciones móviles de forma nativa en iOS y Android.
+- [Platzi - Curso de Electron: Apps de escritorio en Windows y Mac](https://platzi.com/cursos/electron/) - Aprende a usar tecnologías web (HTML, CSS y JS) para crear aplicaciones de escritorio para Windows y Mac con Electron.
+- [Platzi - Curso de PWA con Angular](https://platzi.com/cursos/pwa-angular/) - Aprende a crear Progressive Web Apps con Angular
+- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - Aprende JavaScript y dota de mayor dinamismo e interactividad a tu sitio web.
 
 ## Libros
 - [LibrosWeb](https://librosweb.es/libro/javascript/) - Introducción a JavaScript, conceptos básicos y fundamentales.
