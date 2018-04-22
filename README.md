@@ -101,6 +101,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 #### Yarn
 - [Manejo de dependencias JavaScript con Yarn](https://platzi.com/blog/manejo-de-dependencias-javascript-con-yarn/) - Como usar Yarn como manejador de dependencias de JavaScript.
+- [Migrando desde npm](https://yarnpkg.com/lang/es-es/docs/migrating-from-npm/) - Proceso de migración y comparación de comandos desde NPM a Yarn.
 
 ### Librerías
 #### React.js
