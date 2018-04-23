@@ -167,6 +167,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Implementa Progressive server-side render con Next.js](https://platzi.com/blog/progressive-server-side-render/) - Ejemplo de como implementar progressive server render en Next.js
 
 ## Vídeos y charlas
+- [Javascript asíncrono con Async Await](https://youtu.be/za8Z6saKVdw) - Cómo trabajar con la asincronicidad en Javascript mediante las funciones Async Await.
 - [Javascript en el 2018 | Frameworks, Libraries, Apis, Web Assembly, Nodejs, Mongodb, y Más](https://youtu.be/CTOAwqbmAMQ) - Los Frameworks, librerias y muchas mas herramientas importantes para el 2018.
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
 - [Tutorial de introducción a React.js](https://www.youtube.com/watch?v=d9QumoK2io4) - Ejemplo de Hello World con React.js.
