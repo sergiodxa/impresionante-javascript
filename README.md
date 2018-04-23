@@ -223,6 +223,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS
 - [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
 - [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
+- [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Aprende como usar React y Redux para desarrollar aplicaciones web modernas más poderosas y usando las mejores prácticas.
 
 # Contribuciones
 Cualquier contribución es bienvenida. Lea la [guía de contribuciones](https://github.com/sergiodxa/impresionante-javascript/blob/master/CONTRIBUTING.md) primero.
