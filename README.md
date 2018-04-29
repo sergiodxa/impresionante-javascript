@@ -113,6 +113,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
 - [Crea una aplicación web usando React, Flux y Auth0](https://platzi.com/blog/aplicacion-web-react-flux/) - Crea una aplicación con autenticación y que consuma un API.
+- [Cómo acceder a los datos de tu aplicación sin sufrimiento con React Context API](https://platzi.com/blog/tutorial-como-acceder-a-los-datos-de-tu-aplicacion-con-react-context-api/) - Tutorial para aprender a usar la nueva versión del API de Context 
 
 #### React Native
 - [Inicia un proyecto rápido con React Native](https://platzi.com/blog/proyecto-rapido-react-native/) - Artículo de como usar `create-react-native-app` para iniciar proyecto de RN sin configuracin
