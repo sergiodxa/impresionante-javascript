@@ -113,6 +113,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
 - [Crea una aplicación web usando React, Flux y Auth0](https://platzi.com/blog/aplicacion-web-react-flux/) - Crea una aplicación con autenticación y que consuma un API.
+- [Cómo acceder a los datos de tu aplicación sin sufrimiento con React Context API](https://platzi.com/blog/tutorial-como-acceder-a-los-datos-de-tu-aplicacion-con-react-context-api/) - Tutorial para aprender a usar la nueva versión del API de Context 
 
 #### React Native
 - [Inicia un proyecto rápido con React Native](https://platzi.com/blog/proyecto-rapido-react-native/) - Artículo de como usar `create-react-native-app` para iniciar proyecto de RN sin configuracin
@@ -167,6 +168,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Implementa Progressive server-side render con Next.js](https://platzi.com/blog/progressive-server-side-render/) - Ejemplo de como implementar progressive server render en Next.js
 
 ## Vídeos y charlas
+- [Javascript asíncrono con Async Await](https://youtu.be/za8Z6saKVdw) - Cómo trabajar con la asincronicidad en Javascript mediante las funciones Async Await.
 - [Javascript en el 2018 | Frameworks, Libraries, Apis, Web Assembly, Nodejs, Mongodb, y Más](https://youtu.be/CTOAwqbmAMQ) - Los Frameworks, librerias y muchas mas herramientas importantes para el 2018.
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
 - [Tutorial de introducción a React.js](https://www.youtube.com/watch?v=d9QumoK2io4) - Ejemplo de Hello World con React.js.
@@ -223,6 +225,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS
 - [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
 - [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
+- [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Aprende como usar React y Redux para desarrollar aplicaciones web modernas más poderosas y usando las mejores prácticas.
 
 # Contribuciones
 Cualquier contribución es bienvenida. Lea la [guía de contribuciones](https://github.com/sergiodxa/impresionante-javascript/blob/master/CONTRIBUTING.md) primero.
