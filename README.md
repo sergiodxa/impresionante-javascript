@@ -44,7 +44,6 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Opiniones
 - [Sobre el ecosistema y la fatiga de JavaScript](https://medium.com/@sergiodxa/73027048413f) - Reflexiones sobre el estado actual de la comunidad JavaScript y la conocida fatiga de JS.
-- [Un camino para ser Frontend Developer](https://platzi.com/html5-css3/tutoriales/un-camino-para-ser-frontend-developer/) - Guía de estudio básica para convertirse en Frontend Developer.
 
 ## Tutoriales
 ### Lenguaje
@@ -114,7 +113,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
 - [Crea una aplicación web usando React, Flux y Auth0](https://platzi.com/blog/aplicacion-web-react-flux/) - Crea una aplicación con autenticación y que consuma un API.
-- [Cómo acceder a los datos de tu aplicación sin sufrimiento con React Context API](https://platzi.com/blog/tutorial-como-acceder-a-los-datos-de-tu-aplicacion-con-react-context-api/) - Tutorial para aprender a usar la nueva versión del API de Context 
+- [Cómo acceder a los datos de tu aplicación sin sufrimiento con React Context API](https://platzi.com/blog/tutorial-como-acceder-a-los-datos-de-tu-aplicacion-con-react-context-api/) - Tutorial para aprender a usar la nueva versión del API de Context
+- [Usa Functions as Children (render-props) en Reactjs](https://platzi.com/react/tutoriales/usa-functions-as-children-render-props-en-reactjs/) - Aprende a usar el patron de diseño "Functions as Children" o "Render props" en Reactjs.
 
 #### React Native
 - [Inicia un proyecto rápido con React Native](https://platzi.com/blog/proyecto-rapido-react-native/) - Artículo de como usar `create-react-native-app` para iniciar proyecto de RN sin configuracin
