@@ -9,7 +9,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
   * [API de navegadores](#api-de-navegadores)
   * [Node.js](#nodejs)
   * [Electron.js](#electronjs)
-  * [GraphQL](#grahpql)
+  * [GraphQL](#graphql)
   * [Herramientas](#herramientas)
     * [Babel](#babel)
     * [Gulp](#gulp)
@@ -44,6 +44,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Opiniones
 - [Sobre el ecosistema y la fatiga de JavaScript](https://medium.com/@sergiodxa/73027048413f) - Reflexiones sobre el estado actual de la comunidad JavaScript y la conocida fatiga de JS.
+- [Un camino para ser Frontend Developer](https://platzi.com/html5-css3/tutoriales/un-camino-para-ser-frontend-developer/) - Guía de estudio básica para convertirse en Frontend Developer.
 
 ## Tutoriales
 ### Lenguaje
@@ -70,6 +71,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Introducción a Web Components: ¡El HTML ha muerto, larga vida al HTML!](http://octuweb.com/introduccion-web-components) - Artículo que te ayudará a introducirte en este nuevo estandar HTML.
 
 ### Node.js
+- [¿Por qué demonios usaría Node.js?](https://www.toptal.com/nodejs/por-qu%C3%A9-demonios-usar%C3%ADa-node-js-un-tutorial-caso-por-caso/es) - Un tutorial caso por caso de donde vale la pena usar Node.js.
+
 ### Electron.js
 - [Desarrollando aplicaciones de escritorio con Electron.js](https://platzi.com/blog/aplicaciones-escritorio-electron-js) - Introducción al desarrollo de aplicaciones de escritorio con [Electron.js](http://electron.atom.io/).
 - [Crea aplicaciones de escritorio con Electron y Next.js](https://platzi.com/blog/crea-aplicaciones-de-escritorio-con-electron-y-nextjs/) - Ejemplo de como crear una aplicación de Electron junto a Next.js
@@ -92,12 +95,14 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 #### Webpack
 - [Compilando el Frontend con Webpack](https://medium.com/@sergiodxa/d251f7a632ec) - Tutorial introductorio a Webpack y como configurarlo.
 - [Configurando diferentes entornos en webpack](https://medium.com/@p4bloch/ed1a6db77233) - Cómo configurar webpack con diferentes configuraciones para desarrollo y producción. También hay algunos tips sobre loaders y plugins útiles.
+- [Primeros pasos con Webpack](https://youtu.be/2M5L_uz6GO0) - Tutorial para compilar tu código JavaScript usando Webpack y Webpack Dev Server.
 
 #### CasperJS
 - [Test funcionales con CasperJS](https://getmango.com/blog/test-funcionales-con-casperjs/) - Tutorial de como hacer test de funcionalidad en Frontend.
 
 #### Yarn
 - [Manejo de dependencias JavaScript con Yarn](https://platzi.com/blog/manejo-de-dependencias-javascript-con-yarn/) - Como usar Yarn como manejador de dependencias de JavaScript.
+- [Migrando desde npm](https://yarnpkg.com/lang/es-es/docs/migrating-from-npm/) - Proceso de migración y comparación de comandos desde NPM a Yarn.
 
 ### Librerías
 #### React.js
@@ -109,6 +114,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
 - [Crea una aplicación web usando React, Flux y Auth0](https://platzi.com/blog/aplicacion-web-react-flux/) - Crea una aplicación con autenticación y que consuma un API.
+- [Cómo acceder a los datos de tu aplicación sin sufrimiento con React Context API](https://platzi.com/blog/tutorial-como-acceder-a-los-datos-de-tu-aplicacion-con-react-context-api/) - Tutorial para aprender a usar la nueva versión del API de Context 
 
 #### React Native
 - [Inicia un proyecto rápido con React Native](https://platzi.com/blog/proyecto-rapido-react-native/) - Artículo de como usar `create-react-native-app` para iniciar proyecto de RN sin configuracin
@@ -145,7 +151,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ### Frameworks
 #### Sails.js
 - [Introducción a Sails.js](https://platzi.com/blog/introduccion-sailsjs/) - Tutorial de Sails.js.
-- [Estructura y componentes de una aplicación en Sails.js](https://platzi.com/blog/anatomia-app-sails-js/) - Tutorial de Sails.js.
+- [Estructura y componentes de una aplicación en Sails.js](https://platzi.com/blog/anatomia-sailsjs/) - Tutorial de la estructura y componentes de Sails.js.
 
 #### AngularJS
 - [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - Patrones de diseño en AngularJS v1.
@@ -163,6 +169,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Implementa Progressive server-side render con Next.js](https://platzi.com/blog/progressive-server-side-render/) - Ejemplo de como implementar progressive server render en Next.js
 
 ## Vídeos y charlas
+- [Javascript asíncrono con Async Await](https://youtu.be/za8Z6saKVdw) - Cómo trabajar con la asincronicidad en Javascript mediante las funciones Async Await.
+- [Javascript en el 2018 | Frameworks, Libraries, Apis, Web Assembly, Nodejs, Mongodb, y Más](https://youtu.be/CTOAwqbmAMQ) - Los Frameworks, librerias y muchas mas herramientas importantes para el 2018.
 - [Tutorial de React.js y Componentes](https://www.youtube.com/watch?v=c4gupcuViFQ) - Tutorial básico sobre React.js.
 - [Tutorial de introducción a React.js](https://www.youtube.com/watch?v=d9QumoK2io4) - Ejemplo de Hello World con React.js.
 - [Patrones de arquitectura con Flux y React.js para Front-end](https://www.youtube.com/watch?v=D1gWyGWKjRY) - Explicación de Flux con Reflux.js.
@@ -191,18 +199,26 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [latincoder - Tutoriales Javascript para principiantes](https://www.youtube.com/playlist?list=PLAAhC8kCE0VneZvNqxTuWd3xQxtzUkS7L) - Curso desde 0 para que aprendas a utilizar javascript desde lo mas basico.
 - [FalconMasters - Curso Básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) - Aprende a programar en Javascript con este increíble curso desde 0.
 - [Mario Diez - Curso de React Native](https://www.youtube.com/playlist?list=PLqB3diFeF20Tjmnl8ASD4edh7r8-Qd5ep) - Curso desde 0 en el que aprenderas todos los conceptos para crear tu propia aplicación con React Native.
+- [Curso NodeJS y MongoDB - Crea un API REST JSON desde cero](https://www.youtube.com/watch?v=JwZKcm3zWcA&list=PLUdlARNXMVkk7E88zOrphPyGdS50Tadlr) - Aprende a crear una API REST con Node.js y MongoDB desde cero y paso a paso.
 
 ### Pagos
 - [Platzi - Fundamentos de JavaScript](https://platzi.com/cursos/fundamentos-javascript/) - Curso para aprender toda la sintaxis y características de JavaScript.
-- [Platzi - Curso Definitivo de JavaScript](https://platzi.com/cursos/javascript/) - Desde 0 a PRO en JavaScript para Frontend.
-- [Platzi - Curso Profesional de Node.js y JavaScript](https://platzi.com/cursos/nodejs/) - Node.js desde 0.
-- [Platzi - Curso de JavaScript y jQuery](https://platzi.com/cursos/javascript-jquery/) - JavaScript y jQuery desde 0.
-- [Platzi - Curso profesional de React con Redux](https://platzi.com/cursos/react/) - Aprende desde 0 a usar React.js y Redux.js para desarrollar aplicaciones web.
-- [Platzi - Curso de React Native](https://platzi.com/cursos/react-native/) - Aprende a usar React Native para desarrollar aplicaciones móviles para Android y iOS.
-- [Platzi - Curso de Electron: Apps nativas Windows y Mac](https://platzi.com/cursos/electron/) - Aprende a usar Electron para crear aplicaciones de escritorio con tecnologías web.
-- [Platzi - Curso de GraphQL](https://platzi.com/cursos/graphql/) - Aprende como implementar GraphQL en Backend y Frontend.
-- [Platzi - Curso básico de Vue.js](https://platzi.com/cursos/vuejs/) - Aprende a usar Vue.js el 
-- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - JavaScript Basico.
+- [Platzi - Curso Avanzado de Node.js](https://platzi.com/cursos/nodejs/) - Aprende Node.js creando una aplicacin de IoT, MQTT y WS.
+- [Platzi - Curso Definitivo de JavaScript 2016](https://platzi.com/cursos/javascript-pro-2016/) - Aprende JavaScript FullStack desde cero.
+- [Platzi - Curso básico de Vue.js](https://platzi.com/cursos/vuejs/) - Aprende a usar Vue.js, el framework progresivo.
+- [Platzi - Curso Profesional de VueJS](https://platzi.com/cursos/vuejs-profesional/) - Usa Vue.js para crear aplicaciones de gran escala con buen rendimiento.
+- [Platzi - Curso de Angular 4](https://platzi.com/cursos/angular/) - Aprende a crear una Single Page Application usando Angular.
+- [Platzi - Curso de MEAN](https://platzi.com/cursos/mean/) - Aprende a usar el stack MEAN (MongoDB, Express, Angular y Node) para crear aplicaciones web.
+- [Platzi - Curso de Webpack](https://platzi.com/cursos/webpack/) - Aprende a usar webpack y configurarlo según para tus aplicaciones.
+- [Platzi - Curso de GraphQL](https://platzi.com/cursos/graphql/) - Aprende a crear una API GraphQL usando JavaScript (y aprendiendo GraphQL desde cero).
+- [Platzi - Curso de JavaScript Full Stack con Sails.js](https://platzi.com/cursos/javascript-pro/) - Aprende a usar Sail.js para crear aplicaciones del lado del servidor con Node.js y como integrarlo con Vue.js.
+- [Platzi - Curso de Realidad Virtual para Web](https://platzi.com/cursos/web-vr/) - Aprende a usar JavaScript y A-Frame para crear aplicacione sy juegos de realidad virtual en la web.
+- [Platzi - Curso de React.js](https://platzi.com/cursos/react/) - Aprende desde cero a usar React.js para crear una aplicación.
+- [Platzi - Curso de Redux](https://platzi.com/cursos/redux/) - Aprende a usar Redux junto a React para manejar el estado de tus aplicaciones web.
+- [Platzi - Curso de React Native](https://platzi.com/cursos/react-native/) - Aprende a usar React Native para llevar tus conocimientos de React a las aplicaciones móviles de forma nativa en iOS y Android.
+- [Platzi - Curso de Electron: Apps de escritorio en Windows y Mac](https://platzi.com/cursos/electron/) - Aprende a usar tecnologías web (HTML, CSS y JS) para crear aplicaciones de escritorio para Windows y Mac con Electron.
+- [Platzi - Curso de PWA con Angular](https://platzi.com/cursos/pwa-angular/) - Aprende a crear Progressive Web Apps con Angular
+- [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - Aprende JavaScript y dota de mayor dinamismo e interactividad a tu sitio web.
 
 ## Libros
 - [LibrosWeb](https://librosweb.es/libro/javascript/) - Introducción a JavaScript, conceptos básicos y fundamentales.
@@ -210,6 +226,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS
 - [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
 - [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
+- [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Aprende como usar React y Redux para desarrollar aplicaciones web modernas más poderosas y usando las mejores prácticas.
 
 # Contribuciones
 Cualquier contribución es bienvenida. Lea la [guía de contribuciones](https://github.com/sergiodxa/impresionante-javascript/blob/master/CONTRIBUTING.md) primero.
