@@ -49,6 +49,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 - [Sobre el ecosistema y la fatiga de JavaScript](https://medium.com/@sergiodxa/73027048413f) - Reflexiones sobre el estado actual de la comunidad JavaScript y la conocida fatiga de JS.
 - [Un camino para ser Frontend Developer](https://platzi.com/html5-css3/tutoriales/un-camino-para-ser-frontend-developer/) - Guía de estudio básica para convertirse en Frontend Developer.
+- [Cómo comenzar cuando quieres ser frontend](https://platzi.com/blog/como-comenzar-cuando-quieres-ser-frontend/) - Experiencia y recomendaciones al estudiar para ser Frontend Developer.
 
 ## Tutoriales
 
