@@ -199,6 +199,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 * [Next.js, el futuro de las aplicaciones con React](https://platzi.com/blog/nextjs-el-futuro-de-las-aplicaciones-con-react/) - Introducción Next.js y sus características
 * [Implementa Progressive server-side render con Next.js](https://platzi.com/blog/progressive-server-side-render/) - Ejemplo de como implementar progressive server render en Next.js
+* [Introducción a MDX](https://sergiodxa.com/essays/introduccion-a-mdx) - Guía de comor usar MDX e integrarlo con Next.js
 
 ## Vídeos y charlas
 
