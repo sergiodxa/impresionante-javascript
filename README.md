@@ -47,8 +47,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Opiniones
 
-- [Sobre el ecosistema y la fatiga de JavaScript](https://medium.com/@sergiodxa/73027048413f) - Reflexiones sobre el estado actual de la comunidad JavaScript y la conocida fatiga de JS.
-- [Un camino para ser Frontend Developer](https://platzi.com/html5-css3/tutoriales/un-camino-para-ser-frontend-developer/) - Guía de estudio básica para convertirse en Frontend Developer.
+* [Sobre el ecosistema y la fatiga de JavaScript](https://medium.com/@sergiodxa/73027048413f) - Reflexiones sobre el estado actual de la comunidad JavaScript y la conocida fatiga de JS.
+* [Un camino para ser Frontend Developer](https://platzi.com/html5-css3/tutoriales/un-camino-para-ser-frontend-developer/) - Guía de estudio básica para convertirse en Frontend Developer.
 
 ## Tutoriales
 
@@ -70,6 +70,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
 * [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/c352a462d066) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
 * [Qué son y cómo funcionan las promesas en JavaScript](https://platzi.com/blog/que-es-y-como-funcionan-las-promesas-en-javascript/) - Todo sobre las promesas de JavaScript.
+* [Una re-introducción a JavaScript (Tutorial de JS)](https://platzi.com/blog/que-es-y-como-funcionan-las-promesas-en-javascript/) - Todo sobre JavaScript: Números, Strings, Funciones Objetos y más.
 
 ### API de navegadores
 
