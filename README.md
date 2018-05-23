@@ -70,7 +70,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Uso de módulos en Javascript con ECMAScript 6](http://www.cristalab.com/tutoriales/uso-de-modulos-en-javascript-con-ecmascript-6-c114342l/) - Tutorial sobre módulos de ECMAScript 6.
 * [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/c352a462d066) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
 * [Qué son y cómo funcionan las promesas en JavaScript](https://platzi.com/blog/que-es-y-como-funcionan-las-promesas-en-javascript/) - Todo sobre las promesas de JavaScript.
-* [Una re-introducción a JavaScript (Tutorial de JS)](https://platzi.com/blog/que-es-y-como-funcionan-las-promesas-en-javascript/) - Todo sobre JavaScript: Números, Strings, Funciones Objetos y más.
+* [Una re-introducción a JavaScript (Tutorial de JS)](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introduccion_a_JavaScript) - Todo sobre JavaScript: Números, Strings, Funciones Objetos y más.
 
 ### API de navegadores
 
