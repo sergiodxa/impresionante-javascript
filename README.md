@@ -88,6 +88,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django/) - Explicación de como en Platzi resolvieron el server-render con React.js y Django.
 - [Testeando componentes de React con Enzyme](https://medium.com/@p4bloch/5aa0468a0cab) - Breve introducción sobre cómo inicializar un entorno de tests con la librería Enzyme.
 - [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada/) - Como iniciar a desarrollar con React usando [create-react-app](https://github.com/facebookincubator/create-react-app) para no tener que configurar nada.
+- [React v16.6: lazy, memo y más](https://sergiodxa.com/essays/react-v-16-6/) - Novedades de React 16.6, React Suspense mediante una nueva función llamada lazy y de otra función para evitar doble renders llamada memo.
 
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/react-redux/8bdf4fe0751e) - Introducción a conceptos de Redux.js
