@@ -137,6 +137,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Crea una aplicación web usando React, Flux y Auth0](https://platzi.com/blog/aplicacion-web-react-flux/) - Crea una aplicación con autenticación y que consuma un API.
 * [Cómo acceder a los datos de tu aplicación sin sufrimiento con React Context API](https://platzi.com/blog/tutorial-como-acceder-a-los-datos-de-tu-aplicacion-con-react-context-api/) - Tutorial para aprender a usar la nueva versión del API de Context
 * [Usa Functions as Children (render-props) en Reactjs](https://platzi.com/react/tutoriales/usa-functions-as-children-render-props-en-reactjs/) - Aprende a usar el patron de diseño "Functions as Children" o "Render props" en Reactjs.
+* [React v16.6: lazy, memo y más](https://sergiodxa.com/essays/react-v-16-6/) - Aprende a usar los nuevos features de React v16.6, lazy load, memoize, errores, contexto y más.
 
 #### React Native
 
