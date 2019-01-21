@@ -71,6 +71,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Entendiendo la asignación por destructuring en JavaScript](https://medium.com/@yeion7/c352a462d066) - Tutorial sobre la característica de asignación por destructuración en ECMAScript 6.
 * [Qué son y cómo funcionan las promesas en JavaScript](https://platzi.com/blog/que-es-y-como-funcionan-las-promesas-en-javascript/) - Todo sobre las promesas de JavaScript.
 * [Una re-introducción a JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introduccion_a_JavaScript) - Todo sobre JavaScript: Números, Strings, Funciones Objetos y más.
+* [Tipos en JavaScript sin TypeScript/Flow](https://yeisondaza.com/tipos-en-javascript-sin-typescript) - Explicación de como JSDocs puede usarse para documentar los tipos de datos en JS sin usar un lenguaje como TS o Flow
+* [Qué son y cómo escribir pruebas en JavaScript](https://yeisondaza.com/que-son-y-como-escribir-pruebas-en-javascript) - La importancia de las pruebas en JavaScipt.
+
 
 ### API de navegadores
 
@@ -123,6 +126,10 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Manejo de dependencias JavaScript con Yarn](https://platzi.com/blog/manejo-de-dependencias-javascript-con-yarn/) - Como usar Yarn como manejador de dependencias de JavaScript.
 * [Migrando desde npm](https://yarnpkg.com/lang/es-es/docs/migrating-from-npm/) - Proceso de migración y comparación de comandos desde NPM a Yarn.
 
+#### Jest
+
+* [⚙️ Como configurar jest](https://yeisondaza.com/configurar-jest) - Guía de como configurar Jest para su uso
+
 ### Librerías
 
 #### React.js
@@ -138,6 +145,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Cómo acceder a los datos de tu aplicación sin sufrimiento con React Context API](https://platzi.com/blog/tutorial-como-acceder-a-los-datos-de-tu-aplicacion-con-react-context-api/) - Tutorial para aprender a usar la nueva versión del API de Context
 * [Usa Functions as Children (render-props) en Reactjs](https://platzi.com/react/tutoriales/usa-functions-as-children-render-props-en-reactjs/) - Aprende a usar el patron de diseño "Functions as Children" o "Render props" en Reactjs.
 * [React v16.6: lazy, memo y más](https://sergiodxa.com/essays/react-v-16-6/) - Aprende a usar los nuevos features de React v16.6, lazy load, memoize, errores, contexto y más.
+* [Todo lo que debes saber sobre React Suspense](https://yeisondaza.com/todo-lo-que-debes-saber-sobre-react-suspense) - Guía sobre como funciona React Suspense.
 
 #### React Native
 
