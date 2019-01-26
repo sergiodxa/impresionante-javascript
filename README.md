@@ -2,6 +2,10 @@
 
 Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conferencias, podscasts, cursos y libros en español sobre JavaScript.
 
+<a href="https://www.patreon.com/sergiodxa">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
 ## Índice
 
 * [Guías](#guías)
