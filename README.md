@@ -150,6 +150,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Usa Functions as Children (render-props) en Reactjs](https://platzi.com/react/tutoriales/usa-functions-as-children-render-props-en-reactjs/) - Aprende a usar el patron de diseño "Functions as Children" o "Render props" en Reactjs.
 * [React v16.6: lazy, memo y más](https://sergiodxa.com/essays/react-v-16-6/) - Aprende a usar los nuevos features de React v16.6, lazy load, memoize, errores, contexto y más.
 * [Todo lo que debes saber sobre React Suspense](https://yeisondaza.com/todo-lo-que-debes-saber-sobre-react-suspense) - Guía sobre como funciona React Suspense.
+* [Carrusel de elementos dinámicos con React.js](https://sergiodxa.com/essays/carrusel-elementos-dinamicos-react) - Tutorial sobre cómo crear un carrusel para elementos de tamaños variados usando React.
 
 #### React Native
 
