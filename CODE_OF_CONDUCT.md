@@ -8,19 +8,19 @@ Con el interés de fomentar un ambiente abierto y acogedor, como contribuyentes 
 
 Ejemplos de comportamientos que contribuyen a create un ambiente positivo incluyen:
 
-* Usar un lenguaje acogedor e inclusivo 
-* Siendo respetuoso de diferentes puntos de vista y experiencias
-* Aceptando con gracia la crítica constructiva
-* Enfocarse en lo que es mejor para la comunidad
-* Mostrando empatía hacia otros miembros de la comunidad
+- Usar un lenguaje acogedor e inclusivo
+- Siendo respetuoso de diferentes puntos de vista y experiencias
+- Aceptando con gracia la crítica constructiva
+- Enfocarse en lo que es mejor para la comunidad
+- Mostrando empatía hacia otros miembros de la comunidad
 
 Ejemplos de comportamiento inaceptable de los participantes incluyen:
 
-* El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados
-* Trolling, comentarios insultantes / despectivos, y ataques personales o políticos
-* Acoso público o privado
-* Publicación de información privada de otros, como una dirección física o electrónica, sin permiso explícito
-* Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional
+- El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados
+- Trolling, comentarios insultantes / despectivos, y ataques personales o políticos
+- Acoso público o privado
+- Publicación de información privada de otros, como una dirección física o electrónica, sin permiso explícito
+- Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional
 
 ## Nuestras responsabilidades
 
@@ -40,7 +40,7 @@ Los mantenedores de proyectos que no sigan o hagan cumplir el Código de Conduct
 
 ## Atribución
 
-Este Código de conducta está adaptado de [Contributor Covenant] [homepage], versión 1.4, disponible en [http://contributor-covenant.org/version/1/4][version]
+Este Código de conducta está adaptado de [Contributor Covenant][homepage], versión 1.4, disponible en [http://contributor-covenant.org/version/1/4][version]
 
 [página de inicio]: http://contributor-covenant.org
 [versión]: http://contributor-covenant.org/version/1/4/
