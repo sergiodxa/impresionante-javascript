@@ -77,7 +77,9 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Una re-introducción a JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introduccion_a_JavaScript) - Todo sobre JavaScript: Números, Strings, Funciones Objetos y más.
 * [Tipos en JavaScript sin TypeScript/Flow](https://yeisondaza.com/tipos-en-javascript-sin-typescript) - Explicación de como JSDocs puede usarse para documentar los tipos de datos en JS sin usar un lenguaje como TS o Flow
 * [Qué son y cómo escribir pruebas en JavaScript](https://yeisondaza.com/que-son-y-como-escribir-pruebas-en-javascript) - La importancia de las pruebas en JavaScipt.
-
+* [Conceptos básicos de JS: Array#map](https://sergiodxa.com/essays/js-basics/array-prototype-map) - Aprende a usar Array#map, como se implementa a mano y casos de uso prácticos de este método de los array en JavaScript,
+* [Usando Generadores Asíncronos en JavaScript](https://sergiodxa.com/essays/generadores-asincronos-js) - Tutorial sobre como se pueden usar Generadores Asíncronos de ECMAScript 2018 para realizar colas o paginaciones de un API fácilmente en JavaScript,
+* [Conceptos básicos de JS: Array#filter](https://sergiodxa.com/essays/js-basics/array-prototype-filter) - Aprende a usar Array#filter, como se implementa a mano y casos de uso prácticos de este método de los array en JavaScript.
 
 ### API de navegadores
 
