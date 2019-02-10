@@ -287,10 +287,10 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 ## Libros
 
 - ✍️️📖 [LibrosWeb](https://librosweb.es/libro/javascript/) - Introducción a JavaScript, conceptos básicos y fundamentales.
-- ✍️️📖 [El gran libro de HTML5, CSS3 y JavaScript](http://www.amazon.com/gran-libro-HTML5-CSS3-Javascript/dp/8426719953) - Todo sobre HTML5, CSS3 y JavaScript (hasta ECMAScript 5).
-- ✍️️📖 [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS
-- ✍️️📖 [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
-- ✍️️📖 [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
+- 💰✍️️📖 [El gran libro de HTML5, CSS3 y JavaScript](https://www.amazon.com/gran-libro-HTML5-CSS3-Javascript/dp/8426719953) - Todo sobre HTML5, CSS3 y JavaScript (hasta ECMAScript 5).
+- 💰✍️️📖 [Desarrollo web ágil con Angular.js](https://carlosazaustre.es/blog/ebook-angular/) - Excelente libro sobre AngularJS
+- 💰✍️️📖 [Descubre React](https://leanpub.com/descubre-react) - Aprende sobre ReactJS y ECMAScript 6
+- 💰✍️️📖 [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
 - ✍️️📖 [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Aprende como usar React y Redux para desarrollar aplicaciones web modernas más poderosas y usando las mejores prácticas.
 
 # Contribuciones
