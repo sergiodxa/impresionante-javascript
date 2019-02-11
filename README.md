@@ -6,19 +6,19 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-| Símbolo | Definición                                        |
-| ------- | ------------------------------------------------- |
-| 💰      | Contenido pago (si no posee este emoji es gratis) |
-| ✍️      | Contenido de texto                                |
-| 📹      | Contenido de vídeo                                |
-| 🎧      | Contenido de audio                                |
-| 📖      | Libro                                             |
-| 🗣       | Charla o Conferencia                              |
-| 🤔      | Opiniones                                         |
-| 📝      | Blog                                              |
-| 📋      | Evento                                            |
-| 👨‍🏫      | Curso                                             |
-| 📻      | Podcast                                           |
+| Emoji | Definición                                        |
+| ----- | ------------------------------------------------- |
+| 💰    | Contenido pago (si no posee este emoji es gratis) |
+| ✍️    | Contenido de texto                                |
+| 📹    | Contenido de vídeo                                |
+| 🎧    | Contenido de audio                                |
+| 📖    | Libro                                             |
+| 🗣     | Charla o Conferencia                              |
+| 🤔    | Opiniones                                         |
+| 📝    | Blog                                              |
+| 📋    | Evento                                            |
+| 👨‍🏫    | Curso                                             |
+| 📻    | Podcast                                           |
 
 ## Índice
 
@@ -262,6 +262,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - ✍️📝 [Introducción a MDX](https://sergiodxa.com/essays/introduccion-a-mdx) - Guía de comor usar MDX e integrarlo con Next.js
 
 ## A-Frame
+
 - 💰📹👨‍🏫 [Platzi - Curso de Realidad Virtual para Web](https://platzi.com/cursos/web-vr/) - Aprende a usar JavaScript y A-Frame para crear aplicacione sy juegos de realidad virtual en la web.
 
 ## Contribuciones
