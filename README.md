@@ -243,6 +243,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - 💰📹👨‍🏫 [Platzi - Curso de Angular 4](https://platzi.com/cursos/angular/) - Aprende a crear una Single Page Application usando Angular.
 - 💰📹👨‍🏫 [Platzi - Curso de PWA con Angular](https://platzi.com/cursos/pwa-angular/) - Aprende a crear Progressive Web Apps con Angular/
 - 💰📹👨‍🏫 [Platzi - Curso de MEAN](https://platzi.com/cursos/mean/) - Aprende a usar el stack MEAN (MongoDB, Express, Angular y Node) para crear aplicaciones web.
+- 💰✍️📖[Entendiendo Angular](https://leanpub.com/entendiendoangular) - En este libro vamos a pasar por las funcionalidades de Angular, para poder ir entendiendo todo lo que se puede hacer con este fantástico framework y entender un poco mas a fondo que utilizamos.
 
 ### VueJS
 
