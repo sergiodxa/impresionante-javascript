@@ -92,6 +92,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - 💰📹👨‍🏫 [Platzi - Curso Definitivo de JavaScript 2016](https://platzi.com/cursos/javascript-pro-2016/) - Aprende JavaScript FullStack desde cero.
 - 💰📹👨‍🏫 [Devcode - Javascript Basico](https://devcode.la/cursos/javascript/) - Aprende JavaScript y dota de mayor dinamismo e interactividad a tu sitio web.
 - 💰✍️️📖 [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript) - Aprende las bases del lenguaje web más demandado desde cero hasta ECMAScript 6
+- ✍️📝 [Conceptos básicos de JS: Array#push](https://sergiodxa.com/essays/js-basics/array-prototype-push) - Aprende a usar Array#push, como se implementa a mano y casos de uso prácticos de este método de los array en JavaScript.
 
 ## API de navegadores
 
