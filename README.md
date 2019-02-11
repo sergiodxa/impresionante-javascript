@@ -22,8 +22,6 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Índice
 
-- [Guías](#guías)
-- [Opiniones](#opiniones)
 - [Lenguaje](#lenguaje)
 - [API de Navegadores](#api-de-navegadores)
 - [API de Node.js](#nodejs)
