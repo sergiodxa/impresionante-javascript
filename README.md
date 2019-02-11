@@ -34,6 +34,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
   - [Webpack](#webpack)
   - [CasperJS](#casperjs)
   - [Yarn](#yarn)
+  - [Jest](#jest)
 - [Librerías](#librerías)
   - [React.js](#reactjs)
   - [Redux.js](#reduxjs)
