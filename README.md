@@ -18,6 +18,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 | 📝      | Blog                                              |
 | 📋      | Evento                                            |
 | 👨‍🏫      | Curso                                             |
+| 📻      | Podcast                                           |
 
 ## Índice
 
@@ -256,7 +257,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Podcasts
 
-- 🎧 [Sin humo 3.0 - React y JavaScript](https://soundcloud.com/sin-humo/episodio-3-0-react-y) - Qué es React, JSX, Redux, GraphQL y otras cosas sobre JavaScript.
+- 🎧📻 [Sin humo 3.0 - React y JavaScript](https://soundcloud.com/sin-humo/episodio-3-0-react-y) - Qué es React, JSX, Redux, GraphQL y otras cosas sobre JavaScript.
 
 ## Cursos
 
